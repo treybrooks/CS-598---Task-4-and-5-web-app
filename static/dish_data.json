@@ -1,0 +1,1772 @@
+[
+  {
+    "dish": "egg foo",
+    "dish_frequency": 0.0874329681,
+    "sentiment_factor": 0.5866302373,
+    "star_factor": 0.619987725
+  },
+  {
+    "dish": "kung pao chicken",
+    "dish_frequency": 0.1517836325,
+    "sentiment_factor": 0.4539789445,
+    "star_factor": 0.6146767343
+  },
+  {
+    "dish": "noodle soup with duck",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.5091523457,
+    "star_factor": 0.5
+  },
+  {
+    "dish": "mongolian beef",
+    "dish_frequency": 0.2739566332,
+    "sentiment_factor": 0.6498500104,
+    "star_factor": 0.6305926217
+  },
+  {
+    "dish": "ramen noodles",
+    "dish_frequency": 0.007227792,
+    "sentiment_factor": 0.6408578103,
+    "star_factor": 0.5637019231
+  },
+  {
+    "dish": "rice and fried egg",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.239288623,
+    "star_factor": 0.2692307692
+  },
+  {
+    "dish": "moo goo gai pan",
+    "dish_frequency": 0.0193518303,
+    "sentiment_factor": 0.5688176121,
+    "star_factor": 0.6538461538
+  },
+  {
+    "dish": "soup and wonton noodle",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.6652121425,
+    "star_factor": 0.5512820513
+  },
+  {
+    "dish": "garlic chicken sauce",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.1115125039,
+    "star_factor": 0.2307692308
+  },
+  {
+    "dish": "duck soup",
+    "dish_frequency": 0.0048962462,
+    "sentiment_factor": 0.6826467138,
+    "star_factor": 0.5559440559
+  },
+  {
+    "dish": "scallions and ginger",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.7164660178,
+    "star_factor": 0.7820512821
+  },
+  {
+    "dish": "moo shu",
+    "dish_frequency": 0.0254138494,
+    "sentiment_factor": 0.6311365734,
+    "star_factor": 0.6402097902
+  },
+  {
+    "dish": "mango pudding",
+    "dish_frequency": 0.0146887386,
+    "sentiment_factor": 0.7134885757,
+    "star_factor": 0.7109375
+  },
+  {
+    "dish": "beef chow fun",
+    "dish_frequency": 0.0634180462,
+    "sentiment_factor": 0.7263348444,
+    "star_factor": 0.6479289941
+  },
+  {
+    "dish": "ong choy",
+    "dish_frequency": 0.0074609466,
+    "sentiment_factor": 0.6352013887,
+    "star_factor": 0.7191142191
+  },
+  {
+    "dish": "fresh vegetables",
+    "dish_frequency": 0.0144555841,
+    "sentiment_factor": 0.7501969418,
+    "star_factor": 0.6941391941
+  },
+  {
+    "dish": "egg congee",
+    "dish_frequency": 0.0053625554,
+    "sentiment_factor": 0.5311485693,
+    "star_factor": 0.5849358974
+  },
+  {
+    "dish": "onion pancake",
+    "dish_frequency": 0.0254138494,
+    "sentiment_factor": 0.6430793927,
+    "star_factor": 0.6286713287
+  },
+  {
+    "dish": "chow mein",
+    "dish_frequency": 0.2259267895,
+    "sentiment_factor": 0.5397430014,
+    "star_factor": 0.5721649485
+  },
+  {
+    "dish": "curry chicken with rice",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.5800964333,
+    "star_factor": 0.6923076923
+  },
+  {
+    "dish": "general tso's chicken",
+    "dish_frequency": 0.0722779203,
+    "sentiment_factor": 0.4137759649,
+    "star_factor": 0.5889191195
+  },
+  {
+    "dish": "fish ball",
+    "dish_frequency": 0.0214502215,
+    "sentiment_factor": 0.6581447173,
+    "star_factor": 0.7034739454
+  },
+  {
+    "dish": "peking pork",
+    "dish_frequency": 0.0060620191,
+    "sentiment_factor": 0.6401718637,
+    "star_factor": 0.7037037037
+  },
+  {
+    "dish": "tuna roll",
+    "dish_frequency": 0.0268127769,
+    "sentiment_factor": 0.7829562077,
+    "star_factor": 0.6389257294
+  },
+  {
+    "dish": "chicken chow mein",
+    "dish_frequency": 0.0333411052,
+    "sentiment_factor": 0.3840907636,
+    "star_factor": 0.5328525641
+  },
+  {
+    "dish": "pepper steak",
+    "dish_frequency": 0.0221496852,
+    "sentiment_factor": 0.6287096086,
+    "star_factor": 0.6129807692
+  },
+  {
+    "dish": "orange chicken",
+    "dish_frequency": 0.3940312427,
+    "sentiment_factor": 0.4372284926,
+    "star_factor": 0.6185234044
+  },
+  {
+    "dish": "scallion pancakes",
+    "dish_frequency": 0.0086267195,
+    "sentiment_factor": 0.7286777709,
+    "star_factor": 0.7368421053
+  },
+  {
+    "dish": "bean curd",
+    "dish_frequency": 0.0352063418,
+    "sentiment_factor": 0.5943154651,
+    "star_factor": 0.625
+  },
+  {
+    "dish": "sticky rice",
+    "dish_frequency": 0.0543250175,
+    "sentiment_factor": 0.72416515,
+    "star_factor": 0.6753780408
+  },
+  {
+    "dish": "noodle soup",
+    "dish_frequency": 0.2858475169,
+    "sentiment_factor": 0.664078432,
+    "star_factor": 0.619334211
+  },
+  {
+    "dish": "fried taro",
+    "dish_frequency": 0.0086267195,
+    "sentiment_factor": 0.5679074273,
+    "star_factor": 0.5850202429
+  },
+  {
+    "dish": "preserved egg",
+    "dish_frequency": 0.0083935649,
+    "sentiment_factor": 0.6243103487,
+    "star_factor": 0.6288981289
+  },
+  {
+    "dish": "chicken hainan",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.3205036129,
+    "star_factor": 0.8717948718
+  },
+  {
+    "dish": "bubble tea",
+    "dish_frequency": 0.0076941012,
+    "sentiment_factor": 0.6876591426,
+    "star_factor": 0.6300904977
+  },
+  {
+    "dish": "pork and mushroom",
+    "dish_frequency": 0.0062951737,
+    "sentiment_factor": 0.7492016234,
+    "star_factor": 0.668956044
+  },
+  {
+    "dish": "basil fried rice",
+    "dish_frequency": 0.007227792,
+    "sentiment_factor": 0.6769838142,
+    "star_factor": 0.8040865385
+  },
+  {
+    "dish": "lettuce chicken",
+    "dish_frequency": 0.0011657729,
+    "sentiment_factor": 0.3299465603,
+    "star_factor": 0.6602564103
+  },
+  {
+    "dish": "braised pork",
+    "dish_frequency": 0.0130566566,
+    "sentiment_factor": 0.6901459931,
+    "star_factor": 0.6538461538
+  },
+  {
+    "dish": "thai tea",
+    "dish_frequency": 0.0419678247,
+    "sentiment_factor": 0.7294476904,
+    "star_factor": 0.7373565661
+  },
+  {
+    "dish": "salt and pepper chicken",
+    "dish_frequency": 0.012823502,
+    "sentiment_factor": 0.4415062727,
+    "star_factor": 0.6497252747
+  },
+  {
+    "dish": "spicy beef noodle",
+    "dish_frequency": 0.0104919562,
+    "sentiment_factor": 0.6740669268,
+    "star_factor": 0.6780936455
+  },
+  {
+    "dish": "pork steamed",
+    "dish_frequency": 0.0030310096,
+    "sentiment_factor": 0.692374361,
+    "star_factor": 0.6620879121
+  },
+  {
+    "dish": "salmon roll",
+    "dish_frequency": 0.0039636279,
+    "sentiment_factor": 0.7972856906,
+    "star_factor": 0.5683760684
+  },
+  {
+    "dish": "chewy noodles",
+    "dish_frequency": 0.002797855,
+    "sentiment_factor": 0.6494350395,
+    "star_factor": 0.6715976331
+  },
+  {
+    "dish": "rice noodles",
+    "dish_frequency": 0.0743763115,
+    "sentiment_factor": 0.6129035721,
+    "star_factor": 0.6387019231
+  },
+  {
+    "dish": "rou jia",
+    "dish_frequency": 0.0041967825,
+    "sentiment_factor": 0.7582785558,
+    "star_factor": 0.5263157895
+  },
+  {
+    "dish": "duck soup with noodles",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.6146634522,
+    "star_factor": 0.0
+  },
+  {
+    "dish": "pu pu platter",
+    "dish_frequency": 0.00559571,
+    "sentiment_factor": 0.4267602794,
+    "star_factor": 0.56
+  },
+  {
+    "dish": "beef pepper",
+    "dish_frequency": 0.0032641641,
+    "sentiment_factor": 0.5555431715,
+    "star_factor": 0.5358974359
+  },
+  {
+    "dish": "garlic chili",
+    "dish_frequency": 0.0013989275,
+    "sentiment_factor": 0.5559995206,
+    "star_factor": 0.5604395604
+  },
+  {
+    "dish": "satay chicken",
+    "dish_frequency": 0.0030310096,
+    "sentiment_factor": 0.2730393717,
+    "star_factor": 0.5576923077
+  },
+  {
+    "dish": "duck and roast",
+    "dish_frequency": 0.0034973187,
+    "sentiment_factor": 0.6642540395,
+    "star_factor": 0.6153846154
+  },
+  {
+    "dish": "curry laksa",
+    "dish_frequency": 0.0030310096,
+    "sentiment_factor": 0.5930048664,
+    "star_factor": 0.6318681319
+  },
+  {
+    "dish": "chop suey",
+    "dish_frequency": 0.0202844486,
+    "sentiment_factor": 0.5903386318,
+    "star_factor": 0.604458042
+  },
+  {
+    "dish": "milk boba",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.2431591589,
+    "star_factor": 0.3974358974
+  },
+  {
+    "dish": "pad kee mao",
+    "dish_frequency": 0.0046630916,
+    "sentiment_factor": 0.7528813492,
+    "star_factor": 0.7875457875
+  },
+  {
+    "dish": "mango shrimp",
+    "dish_frequency": 0.0034973187,
+    "sentiment_factor": 0.5735847123,
+    "star_factor": 0.7692307692
+  },
+  {
+    "dish": "spicy tofu",
+    "dish_frequency": 0.00559571,
+    "sentiment_factor": 0.4994629122,
+    "star_factor": 0.6430769231
+  },
+  {
+    "dish": "pupu platter",
+    "dish_frequency": 0.004429937,
+    "sentiment_factor": 0.4504087567,
+    "star_factor": 0.4769230769
+  },
+  {
+    "dish": "pork belly",
+    "dish_frequency": 0.0934949872,
+    "sentiment_factor": 0.7818951615,
+    "star_factor": 0.7276119403
+  },
+  {
+    "dish": "fried rice cake",
+    "dish_frequency": 0.0048962462,
+    "sentiment_factor": 0.7950491459,
+    "star_factor": 0.7604895105
+  },
+  {
+    "dish": "veggie tempura",
+    "dish_frequency": 0.0023315458,
+    "sentiment_factor": 0.6447117591,
+    "star_factor": 0.4895104895
+  },
+  {
+    "dish": "crispy duck",
+    "dish_frequency": 0.0186523665,
+    "sentiment_factor": 0.7201347272,
+    "star_factor": 0.7165242165
+  },
+  {
+    "dish": "eggplant in garlic",
+    "dish_frequency": 0.0067614829,
+    "sentiment_factor": 0.7458060778,
+    "star_factor": 0.7269230769
+  },
+  {
+    "dish": "shrimp toast",
+    "dish_frequency": 0.0083935649,
+    "sentiment_factor": 0.7178470123,
+    "star_factor": 0.6247401247
+  },
+  {
+    "dish": "black beans and rice",
+    "dish_frequency": 0.0006994637,
+    "sentiment_factor": 0.4819544373,
+    "star_factor": 0.6634615385
+  },
+  {
+    "dish": "wonton noodle",
+    "dish_frequency": 0.0510608533,
+    "sentiment_factor": 0.6184971688,
+    "star_factor": 0.5758741259
+  },
+  {
+    "dish": "curry red",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.2270435081,
+    "star_factor": 0.3076923077
+  },
+  {
+    "dish": "noodle soup and wonton",
+    "dish_frequency": 0.0006994637,
+    "sentiment_factor": 0.4087141486,
+    "star_factor": 0.4711538462
+  },
+  {
+    "dish": "kung pao shrimp",
+    "dish_frequency": 0.0195849848,
+    "sentiment_factor": 0.6182435948,
+    "star_factor": 0.6325791855
+  },
+  {
+    "dish": "kung pao shrimp and chicken",
+    "dish_frequency": 0.0006994637,
+    "sentiment_factor": 0.5454693428,
+    "star_factor": 0.7307692308
+  },
+  {
+    "dish": "seafood hot pot",
+    "dish_frequency": 0.0046630916,
+    "sentiment_factor": 0.695991536,
+    "star_factor": 0.6465201465
+  },
+  {
+    "dish": "brown fried rice",
+    "dish_frequency": 0.0009326183,
+    "sentiment_factor": 0.8011088906,
+    "star_factor": 0.5615384615
+  },
+  {
+    "dish": "seafood tofu",
+    "dish_frequency": 0.0041967825,
+    "sentiment_factor": 0.5848013656,
+    "star_factor": 0.5809716599
+  },
+  {
+    "dish": "napa cabbage",
+    "dish_frequency": 0.0121240382,
+    "sentiment_factor": 0.6473382195,
+    "star_factor": 0.6835994194
+  },
+  {
+    "dish": "taro cake",
+    "dish_frequency": 0.0037304733,
+    "sentiment_factor": 0.5963065141,
+    "star_factor": 0.5995475113
+  },
+  {
+    "dish": "banh mi",
+    "dish_frequency": 0.0139892749,
+    "sentiment_factor": 0.6483353937,
+    "star_factor": 0.6254728878
+  },
+  {
+    "dish": "coconut shrimp",
+    "dish_frequency": 0.0121240382,
+    "sentiment_factor": 0.6543515284,
+    "star_factor": 0.6248185776
+  },
+  {
+    "dish": "beef with black pepper",
+    "dish_frequency": 0.0009326183,
+    "sentiment_factor": 0.6809574356,
+    "star_factor": 0.7230769231
+  },
+  {
+    "dish": "shrimp mango",
+    "dish_frequency": 0.004429937,
+    "sentiment_factor": 0.8597780772,
+    "star_factor": 0.8884615385
+  },
+  {
+    "dish": "fried rice with shrimp",
+    "dish_frequency": 0.0030310096,
+    "sentiment_factor": 0.6572354867,
+    "star_factor": 0.5851648352
+  },
+  {
+    "dish": "pad kee",
+    "dish_frequency": 0.0051294008,
+    "sentiment_factor": 0.7752846661,
+    "star_factor": 0.7943143813
+  },
+  {
+    "dish": "egg soup",
+    "dish_frequency": 0.0060620191,
+    "sentiment_factor": 0.6105807462,
+    "star_factor": 0.6054131054
+  },
+  {
+    "dish": "rice porridge",
+    "dish_frequency": 0.0093261833,
+    "sentiment_factor": 0.5640900884,
+    "star_factor": 0.5581613508
+  },
+  {
+    "dish": "hot pot",
+    "dish_frequency": 0.0841688039,
+    "sentiment_factor": 0.644507377,
+    "star_factor": 0.6762643434
+  },
+  {
+    "dish": "pao chicken",
+    "dish_frequency": 0.15877827,
+    "sentiment_factor": 0.4557862611,
+    "star_factor": 0.6167944958
+  },
+  {
+    "dish": "cumin lamb",
+    "dish_frequency": 0.0053625554,
+    "sentiment_factor": 0.6492322541,
+    "star_factor": 0.7291666667
+  },
+  {
+    "dish": "drunken noodles",
+    "dish_frequency": 0.0132898111,
+    "sentiment_factor": 0.716170555,
+    "star_factor": 0.7732095491
+  },
+  {
+    "dish": "kung pao",
+    "dish_frequency": 0.2511074843,
+    "sentiment_factor": 0.5358980709,
+    "star_factor": 0.6302625945
+  },
+  {
+    "dish": "garlic pepper",
+    "dish_frequency": 0.0037304733,
+    "sentiment_factor": 0.5615815645,
+    "star_factor": 0.7601809955
+  },
+  {
+    "dish": "mapo tofu",
+    "dish_frequency": 0.0205176032,
+    "sentiment_factor": 0.6607704546,
+    "star_factor": 0.6132238548
+  },
+  {
+    "dish": "fried sweet potato",
+    "dish_frequency": 0.0013989275,
+    "sentiment_factor": 0.7179280522,
+    "star_factor": 0.6813186813
+  },
+  {
+    "dish": "milk tea boba",
+    "dish_frequency": 0.0009326183,
+    "sentiment_factor": 0.694216313,
+    "star_factor": 0.7846153846
+  },
+  {
+    "dish": "chicken katsu",
+    "dish_frequency": 0.0058288645,
+    "sentiment_factor": 0.4647176375,
+    "star_factor": 0.5665680473
+  },
+  {
+    "dish": "curry noodles",
+    "dish_frequency": 0.0065283283,
+    "sentiment_factor": 0.6652931274,
+    "star_factor": 0.6206896552
+  },
+  {
+    "dish": "chicken and broccoli beef",
+    "dish_frequency": 0.0016320821,
+    "sentiment_factor": 0.614297621,
+    "star_factor": 0.6346153846
+  },
+  {
+    "dish": "boba tea",
+    "dish_frequency": 0.0149218932,
+    "sentiment_factor": 0.6741892444,
+    "star_factor": 0.6573964497
+  },
+  {
+    "dish": "boba milk tea",
+    "dish_frequency": 0.0034973187,
+    "sentiment_factor": 0.6058478647,
+    "star_factor": 0.59375
+  },
+  {
+    "dish": "chicken and garlic sauce",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.3440565442,
+    "star_factor": 0.5
+  },
+  {
+    "dish": "jasmine rice",
+    "dish_frequency": 0.0079272558,
+    "sentiment_factor": 0.6283376764,
+    "star_factor": 0.6142857143
+  },
+  {
+    "dish": "noodle soup with egg",
+    "dish_frequency": 0.0009326183,
+    "sentiment_factor": 0.7600947737,
+    "star_factor": 0.5153846154
+  },
+  {
+    "dish": "pepper and salt chicken",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.0,
+    "star_factor": 0.2692307692
+  },
+  {
+    "dish": "duck noodle",
+    "dish_frequency": 0.0167871299,
+    "sentiment_factor": 0.7161760632,
+    "star_factor": 0.6111696523
+  },
+  {
+    "dish": "honey chicken",
+    "dish_frequency": 0.0317090231,
+    "sentiment_factor": 0.4584988804,
+    "star_factor": 0.621841662
+  },
+  {
+    "dish": "fu yung",
+    "dish_frequency": 0.0037304733,
+    "sentiment_factor": 0.677006426,
+    "star_factor": 0.5995475113
+  },
+  {
+    "dish": "moo shu pork",
+    "dish_frequency": 0.0144555841,
+    "sentiment_factor": 0.6868661862,
+    "star_factor": 0.6330891331
+  },
+  {
+    "dish": "thai pad",
+    "dish_frequency": 0.0006994637,
+    "sentiment_factor": 0.604493012,
+    "star_factor": 0.7403846154
+  },
+  {
+    "dish": "duck noodle soup",
+    "dish_frequency": 0.0121240382,
+    "sentiment_factor": 0.7280364283,
+    "star_factor": 0.5747460087
+  },
+  {
+    "dish": "onion and ginger",
+    "dish_frequency": 0.0016320821,
+    "sentiment_factor": 0.700853557,
+    "star_factor": 0.6586538462
+  },
+  {
+    "dish": "noodle curry",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.8729234332,
+    "star_factor": 1.0
+  },
+  {
+    "dish": "crab wonton",
+    "dish_frequency": 0.0277453952,
+    "sentiment_factor": 0.610968711,
+    "star_factor": 0.6294871795
+  },
+  {
+    "dish": "green bean tempura",
+    "dish_frequency": 0.0041967825,
+    "sentiment_factor": 0.8363807477,
+    "star_factor": 0.8502024291
+  },
+  {
+    "dish": "stinky tofu",
+    "dish_frequency": 0.0074609466,
+    "sentiment_factor": 0.6855791896,
+    "star_factor": 0.6060606061
+  },
+  {
+    "dish": "pepper and salt shrimp",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.8630700226,
+    "star_factor": 0.4615384615
+  },
+  {
+    "dish": "chicken with garlic sauce",
+    "dish_frequency": 0.0041967825,
+    "sentiment_factor": 0.4516108171,
+    "star_factor": 0.5769230769
+  },
+  {
+    "dish": "shark fin soup",
+    "dish_frequency": 0.0074609466,
+    "sentiment_factor": 0.6315682837,
+    "star_factor": 0.5699300699
+  },
+  {
+    "dish": "roast pig",
+    "dish_frequency": 0.002797855,
+    "sentiment_factor": 0.6451690586,
+    "star_factor": 0.5650887574
+  },
+  {
+    "dish": "deep fried tofu",
+    "dish_frequency": 0.0060620191,
+    "sentiment_factor": 0.6286879418,
+    "star_factor": 0.5883190883
+  },
+  {
+    "dish": "king crab",
+    "dish_frequency": 0.0081604104,
+    "sentiment_factor": 0.7104862962,
+    "star_factor": 0.6420940171
+  },
+  {
+    "dish": "eggplant stuffed",
+    "dish_frequency": 0.0020983912,
+    "sentiment_factor": 0.8611647297,
+    "star_factor": 0.7038461538
+  },
+  {
+    "dish": "turnip cake",
+    "dish_frequency": 0.0097924924,
+    "sentiment_factor": 0.6608588071,
+    "star_factor": 0.6305903399
+  },
+  {
+    "dish": "dim sum",
+    "dish_frequency": 0.5567731406,
+    "sentiment_factor": 0.6621269906,
+    "star_factor": 0.588305374
+  },
+  {
+    "dish": "stir fried chicken",
+    "dish_frequency": 0.0018652367,
+    "sentiment_factor": 0.3875147911,
+    "star_factor": 0.5897435897
+  },
+  {
+    "dish": "shrimp tempura",
+    "dish_frequency": 0.0235486127,
+    "sentiment_factor": 0.6922970439,
+    "star_factor": 0.6463046757
+  },
+  {
+    "dish": "spring roll",
+    "dish_frequency": 0.2347866636,
+    "sentiment_factor": 0.6342389002,
+    "star_factor": 0.6258012821
+  },
+  {
+    "dish": "goo gai pan",
+    "dish_frequency": 0.0195849848,
+    "sentiment_factor": 0.5723669166,
+    "star_factor": 0.6547511312
+  },
+  {
+    "dish": "steamed chicken",
+    "dish_frequency": 0.015621357,
+    "sentiment_factor": 0.4596304122,
+    "star_factor": 0.6538461538
+  },
+  {
+    "dish": "bao buns",
+    "dish_frequency": 0.0020983912,
+    "sentiment_factor": 0.7249087034,
+    "star_factor": 0.5961538462
+  },
+  {
+    "dish": "shrimp fried rice",
+    "dish_frequency": 0.0526929354,
+    "sentiment_factor": 0.6166491619,
+    "star_factor": 0.5852253473
+  },
+  {
+    "dish": "salmon and avocado",
+    "dish_frequency": 0.0013989275,
+    "sentiment_factor": 0.6777469697,
+    "star_factor": 0.5384615385
+  },
+  {
+    "dish": "rice cake",
+    "dish_frequency": 0.0263464677,
+    "sentiment_factor": 0.6941192686,
+    "star_factor": 0.6791497976
+  },
+  {
+    "dish": "chicken rice",
+    "dish_frequency": 0.0209839123,
+    "sentiment_factor": 0.3835427349,
+    "star_factor": 0.6322907861
+  },
+  {
+    "dish": "shu pork",
+    "dish_frequency": 0.0326416414,
+    "sentiment_factor": 0.6882664432,
+    "star_factor": 0.6344789962
+  },
+  {
+    "dish": "soft tofu",
+    "dish_frequency": 0.0076941012,
+    "sentiment_factor": 0.7143476026,
+    "star_factor": 0.6877828054
+  },
+  {
+    "dish": "pad see ew",
+    "dish_frequency": 0.0214502215,
+    "sentiment_factor": 0.7547588597,
+    "star_factor": 0.6674937965
+  },
+  {
+    "dish": "pepper wings",
+    "dish_frequency": 0.0037304733,
+    "sentiment_factor": 0.6517055381,
+    "star_factor": 0.7443438914
+  },
+  {
+    "dish": "fried wontons",
+    "dish_frequency": 0.0296106318,
+    "sentiment_factor": 0.4861632592,
+    "star_factor": 0.5546875
+  },
+  {
+    "dish": "egg fu yung",
+    "dish_frequency": 0.0037304733,
+    "sentiment_factor": 0.677006426,
+    "star_factor": 0.5995475113
+  },
+  {
+    "dish": "tofu skin",
+    "dish_frequency": 0.0046630916,
+    "sentiment_factor": 0.5933249009,
+    "star_factor": 0.6153846154
+  },
+  {
+    "dish": "rice in lotus leaf",
+    "dish_frequency": 0.0032641641,
+    "sentiment_factor": 0.676734805,
+    "star_factor": 0.658974359
+  },
+  {
+    "dish": "pepper beef",
+    "dish_frequency": 0.0184192119,
+    "sentiment_factor": 0.6118923972,
+    "star_factor": 0.6461538462
+  },
+  {
+    "dish": "thai curry",
+    "dish_frequency": 0.0081604104,
+    "sentiment_factor": 0.5185370997,
+    "star_factor": 0.6324786325
+  },
+  {
+    "dish": "tom yum",
+    "dish_frequency": 0.0375378876,
+    "sentiment_factor": 0.6973224809,
+    "star_factor": 0.6915954416
+  },
+  {
+    "dish": "lo mein",
+    "dish_frequency": 0.1839589648,
+    "sentiment_factor": 0.5680385777,
+    "star_factor": 0.5951314508
+  },
+  {
+    "dish": "fried dumplings",
+    "dish_frequency": 0.0307764048,
+    "sentiment_factor": 0.6914050386,
+    "star_factor": 0.6434355119
+  },
+  {
+    "dish": "mu shu",
+    "dish_frequency": 0.0296106318,
+    "sentiment_factor": 0.6376226997,
+    "star_factor": 0.6878004808
+  },
+  {
+    "dish": "bourbon chicken",
+    "dish_frequency": 0.0053625554,
+    "sentiment_factor": 0.462838896,
+    "star_factor": 0.6698717949
+  },
+  {
+    "dish": "grilled pork",
+    "dish_frequency": 0.0083935649,
+    "sentiment_factor": 0.6779093608,
+    "star_factor": 0.6372141372
+  },
+  {
+    "dish": "beef satay",
+    "dish_frequency": 0.0039636279,
+    "sentiment_factor": 0.7068890846,
+    "star_factor": 0.7094017094
+  },
+  {
+    "dish": "fried rice",
+    "dish_frequency": 1.0,
+    "sentiment_factor": 0.5705935284,
+    "star_factor": 0.6072709342
+  },
+  {
+    "dish": "shrimp kung pao",
+    "dish_frequency": 0.0006994637,
+    "sentiment_factor": 1.0,
+    "star_factor": 0.5865384615
+  },
+  {
+    "dish": "tea boba",
+    "dish_frequency": 0.0039636279,
+    "sentiment_factor": 0.8652652108,
+    "star_factor": 0.7457264957
+  },
+  {
+    "dish": "lemon chicken",
+    "dish_frequency": 0.0671485195,
+    "sentiment_factor": 0.4245233951,
+    "star_factor": 0.6151184456
+  },
+  {
+    "dish": "mushroom pork",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.5417320209,
+    "star_factor": 0.5961538462
+  },
+  {
+    "dish": "gai pan",
+    "dish_frequency": 0.0202844486,
+    "sentiment_factor": 0.57379165,
+    "star_factor": 0.6516608392
+  },
+  {
+    "dish": "tso general chicken",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.5439647708,
+    "star_factor": 0.4615384615
+  },
+  {
+    "dish": "satay beef",
+    "dish_frequency": 0.0011657729,
+    "sentiment_factor": 0.6458011265,
+    "star_factor": 0.5705128205
+  },
+  {
+    "dish": "bahn mi",
+    "dish_frequency": 0.0046630916,
+    "sentiment_factor": 0.7428637792,
+    "star_factor": 0.6721611722
+  },
+  {
+    "dish": "pork chop rice",
+    "dish_frequency": 0.0062951737,
+    "sentiment_factor": 0.6244375103,
+    "star_factor": 0.6387362637
+  },
+  {
+    "dish": "roti with chicken",
+    "dish_frequency": 0.0006994637,
+    "sentiment_factor": 0.6726707139,
+    "star_factor": 0.7788461538
+  },
+  {
+    "dish": "egg noodle soup",
+    "dish_frequency": 0.0093261833,
+    "sentiment_factor": 0.6000566395,
+    "star_factor": 0.6285178236
+  },
+  {
+    "dish": "shrimp wonton",
+    "dish_frequency": 0.0233154581,
+    "sentiment_factor": 0.6774817642,
+    "star_factor": 0.6869763899
+  },
+  {
+    "dish": "chow mein noodles",
+    "dish_frequency": 0.012823502,
+    "sentiment_factor": 0.4938669274,
+    "star_factor": 0.5350274725
+  },
+  {
+    "dish": "fish cakes",
+    "dish_frequency": 0.0034973187,
+    "sentiment_factor": 0.5861851399,
+    "star_factor": 0.59375
+  },
+  {
+    "dish": "thai iced",
+    "dish_frequency": 0.0298437864,
+    "sentiment_factor": 0.6682252585,
+    "star_factor": 0.6469886702
+  },
+  {
+    "dish": "stir fried beef",
+    "dish_frequency": 0.002797855,
+    "sentiment_factor": 0.70339045,
+    "star_factor": 0.701183432
+  },
+  {
+    "dish": "egg noodles",
+    "dish_frequency": 0.0293774773,
+    "sentiment_factor": 0.6644473845,
+    "star_factor": 0.6290127196
+  },
+  {
+    "dish": "crab roll",
+    "dish_frequency": 0.0041967825,
+    "sentiment_factor": 0.6404018387,
+    "star_factor": 0.5688259109
+  },
+  {
+    "dish": "eggplant in garlic sauce",
+    "dish_frequency": 0.0062951737,
+    "sentiment_factor": 0.7606441663,
+    "star_factor": 0.7225274725
+  },
+  {
+    "dish": "won ton",
+    "dish_frequency": 0.1377943577,
+    "sentiment_factor": 0.5809202868,
+    "star_factor": 0.5910213098
+  },
+  {
+    "dish": "egg fu young",
+    "dish_frequency": 0.004429937,
+    "sentiment_factor": 0.6477800284,
+    "star_factor": 0.6288461538
+  },
+  {
+    "dish": "char siu",
+    "dish_frequency": 0.0230823036,
+    "sentiment_factor": 0.6119780349,
+    "star_factor": 0.5980769231
+  },
+  {
+    "dish": "kee mao",
+    "dish_frequency": 0.0053625554,
+    "sentiment_factor": 0.7367680112,
+    "star_factor": 0.7820512821
+  },
+  {
+    "dish": "steamed pork",
+    "dish_frequency": 0.0230823036,
+    "sentiment_factor": 0.6172501491,
+    "star_factor": 0.5976923077
+  },
+  {
+    "dish": "vegetable chow",
+    "dish_frequency": 0.0088598741,
+    "sentiment_factor": 0.6242150764,
+    "star_factor": 0.5562130178
+  },
+  {
+    "dish": "egg fried rice",
+    "dish_frequency": 0.0121240382,
+    "sentiment_factor": 0.5345007563,
+    "star_factor": 0.618287373
+  },
+  {
+    "dish": "sweet and sour pork",
+    "dish_frequency": 0.0608533458,
+    "sentiment_factor": 0.6156697778,
+    "star_factor": 0.608778626
+  },
+  {
+    "dish": "papaya salad",
+    "dish_frequency": 0.0223828398,
+    "sentiment_factor": 0.7677532865,
+    "star_factor": 0.7339413164
+  },
+  {
+    "dish": "stir fried noodles",
+    "dish_frequency": 0.0039636279,
+    "sentiment_factor": 0.5082409385,
+    "star_factor": 0.5982905983
+  },
+  {
+    "dish": "potato chicken",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.6281927019,
+    "star_factor": 0.8461538462
+  },
+  {
+    "dish": "ma po tofu",
+    "dish_frequency": 0.0191186757,
+    "sentiment_factor": 0.6265392241,
+    "star_factor": 0.6292863763
+  },
+  {
+    "dish": "pao shrimp",
+    "dish_frequency": 0.0212170669,
+    "sentiment_factor": 0.5978145586,
+    "star_factor": 0.6153846154
+  },
+  {
+    "dish": "dan dan",
+    "dish_frequency": 0.055723945,
+    "sentiment_factor": 0.6349808056,
+    "star_factor": 0.5891025641
+  },
+  {
+    "dish": "cashew chicken",
+    "dish_frequency": 0.050128235,
+    "sentiment_factor": 0.3810250383,
+    "star_factor": 0.5681980057
+  },
+  {
+    "dish": "white steamed rice",
+    "dish_frequency": 0.0011657729,
+    "sentiment_factor": 0.4258514555,
+    "star_factor": 0.6538461538
+  },
+  {
+    "dish": "sweet soy",
+    "dish_frequency": 0.0081604104,
+    "sentiment_factor": 0.5997642812,
+    "star_factor": 0.6388888889
+  },
+  {
+    "dish": "fish head",
+    "dish_frequency": 0.0051294008,
+    "sentiment_factor": 0.6049268765,
+    "star_factor": 0.6906354515
+  },
+  {
+    "dish": "sesame chicken",
+    "dish_frequency": 0.1256703194,
+    "sentiment_factor": 0.408901279,
+    "star_factor": 0.6012820513
+  },
+  {
+    "dish": "thousand year old egg",
+    "dish_frequency": 0.0032641641,
+    "sentiment_factor": 0.6197410707,
+    "star_factor": 0.6025641026
+  },
+  {
+    "dish": "shrimp stuffed",
+    "dish_frequency": 0.0020983912,
+    "sentiment_factor": 0.6597005835,
+    "star_factor": 0.6423076923
+  },
+  {
+    "dish": "century egg",
+    "dish_frequency": 0.0034973187,
+    "sentiment_factor": 0.6370384975,
+    "star_factor": 0.6057692308
+  },
+  {
+    "dish": "fried tofu",
+    "dish_frequency": 0.0470972255,
+    "sentiment_factor": 0.6622394035,
+    "star_factor": 0.671845396
+  },
+  {
+    "dish": "lotus leaf rice",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.8939303283,
+    "star_factor": 0.5961538462
+  },
+  {
+    "dish": "pork bao",
+    "dish_frequency": 0.0058288645,
+    "sentiment_factor": 0.7784393283,
+    "star_factor": 0.6893491124
+  },
+  {
+    "dish": "chicken and cashew",
+    "dish_frequency": 0.0020983912,
+    "sentiment_factor": 0.4059208635,
+    "star_factor": 0.4884615385
+  },
+  {
+    "dish": "chow fried rice",
+    "dish_frequency": 0.0123571928,
+    "sentiment_factor": 0.6431566787,
+    "star_factor": 0.589031339
+  },
+  {
+    "dish": "vegetable tempura",
+    "dish_frequency": 0.0025647004,
+    "sentiment_factor": 0.7349855368,
+    "star_factor": 0.5576923077
+  },
+  {
+    "dish": "pork intestine",
+    "dish_frequency": 0.007227792,
+    "sentiment_factor": 0.6338078044,
+    "star_factor": 0.6526442308
+  },
+  {
+    "dish": "foo young",
+    "dish_frequency": 0.0608533458,
+    "sentiment_factor": 0.5784420177,
+    "star_factor": 0.599383441
+  },
+  {
+    "dish": "shrimp and pork",
+    "dish_frequency": 0.0123571928,
+    "sentiment_factor": 0.6648745262,
+    "star_factor": 0.6239316239
+  },
+  {
+    "dish": "spicy tuna roll",
+    "dish_frequency": 0.0216833761,
+    "sentiment_factor": 0.7654770355,
+    "star_factor": 0.6264320786
+  },
+  {
+    "dish": "thai iced tea",
+    "dish_frequency": 0.027279086,
+    "sentiment_factor": 0.6674465082,
+    "star_factor": 0.64863103
+  },
+  {
+    "dish": "green curry chicken",
+    "dish_frequency": 0.0023315458,
+    "sentiment_factor": 0.6282988817,
+    "star_factor": 0.7307692308
+  },
+  {
+    "dish": "soy sauce chicken",
+    "dish_frequency": 0.0083935649,
+    "sentiment_factor": 0.51913598,
+    "star_factor": 0.6216216216
+  },
+  {
+    "dish": "mushu pork",
+    "dish_frequency": 0.0039636279,
+    "sentiment_factor": 0.6810488049,
+    "star_factor": 0.6431623932
+  },
+  {
+    "dish": "chicken with ginger",
+    "dish_frequency": 0.0030310096,
+    "sentiment_factor": 0.4519090638,
+    "star_factor": 0.6895604396
+  },
+  {
+    "dish": "beef rendang",
+    "dish_frequency": 0.0048962462,
+    "sentiment_factor": 0.7757630887,
+    "star_factor": 0.7534965035
+  },
+  {
+    "dish": "black rice",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.3682591375,
+    "star_factor": 0.5897435897
+  },
+  {
+    "dish": "hainan chicken rice",
+    "dish_frequency": 0.0023315458,
+    "sentiment_factor": 0.4448433557,
+    "star_factor": 0.6433566434
+  },
+  {
+    "dish": "shrimp cocktail",
+    "dish_frequency": 0.00559571,
+    "sentiment_factor": 0.6603479403,
+    "star_factor": 0.5461538462
+  },
+  {
+    "dish": "foo yung",
+    "dish_frequency": 0.0205176032,
+    "sentiment_factor": 0.579862124,
+    "star_factor": 0.6400172861
+  },
+  {
+    "dish": "lamb pot",
+    "dish_frequency": 0.010025647,
+    "sentiment_factor": 0.7113043348,
+    "star_factor": 0.5847902098
+  },
+  {
+    "dish": "boiled beef",
+    "dish_frequency": 0.0046630916,
+    "sentiment_factor": 0.562868644,
+    "star_factor": 0.7179487179
+  },
+  {
+    "dish": "spicy beef noodle soup",
+    "dish_frequency": 0.0083935649,
+    "sentiment_factor": 0.7193293535,
+    "star_factor": 0.6995841996
+  },
+  {
+    "dish": "teriyaki chicken",
+    "dish_frequency": 0.0615528095,
+    "sentiment_factor": 0.3604400441,
+    "star_factor": 0.5664731495
+  },
+  {
+    "dish": "pepper shrimp",
+    "dish_frequency": 0.0435999067,
+    "sentiment_factor": 0.696554104,
+    "star_factor": 0.6835106383
+  },
+  {
+    "dish": "fu young",
+    "dish_frequency": 0.004429937,
+    "sentiment_factor": 0.6477800284,
+    "star_factor": 0.6288461538
+  },
+  {
+    "dish": "deep fried shrimp",
+    "dish_frequency": 0.0053625554,
+    "sentiment_factor": 0.6282271357,
+    "star_factor": 0.5961538462
+  },
+  {
+    "dish": "red curry",
+    "dish_frequency": 0.025647004,
+    "sentiment_factor": 0.6568424483,
+    "star_factor": 0.735966736
+  },
+  {
+    "dish": "wonton soup",
+    "dish_frequency": 0.1606435066,
+    "sentiment_factor": 0.6302231258,
+    "star_factor": 0.6172240803
+  },
+  {
+    "dish": "avocado and salmon",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.5759894844,
+    "star_factor": 0.5128205128
+  },
+  {
+    "dish": "lamb with cumin",
+    "dish_frequency": 0.0041967825,
+    "sentiment_factor": 0.6294719385,
+    "star_factor": 0.7165991903
+  },
+  {
+    "dish": "stuffed eggplant",
+    "dish_frequency": 0.0016320821,
+    "sentiment_factor": 0.6933068939,
+    "star_factor": 0.7115384615
+  },
+  {
+    "dish": "general tso chicken",
+    "dish_frequency": 0.0186523665,
+    "sentiment_factor": 0.4616524217,
+    "star_factor": 0.6087369421
+  },
+  {
+    "dish": "green chicken curry",
+    "dish_frequency": 0.0013989275,
+    "sentiment_factor": 0.3975575199,
+    "star_factor": 0.5879120879
+  },
+  {
+    "dish": "hainan chicken",
+    "dish_frequency": 0.0111914199,
+    "sentiment_factor": 0.3560767487,
+    "star_factor": 0.6326530612
+  },
+  {
+    "dish": "vietnamese sandwiches",
+    "dish_frequency": 0.0046630916,
+    "sentiment_factor": 0.6631586511,
+    "star_factor": 0.63003663
+  },
+  {
+    "dish": "chicken with almond",
+    "dish_frequency": 0.0004663092,
+    "sentiment_factor": 0.4171926266,
+    "star_factor": 0.641025641
+  },
+  {
+    "dish": "bok choy",
+    "dish_frequency": 0.0594544183,
+    "sentiment_factor": 0.6679715358,
+    "star_factor": 0.6395733173
+  },
+  {
+    "dish": "spicy noodle with beef",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.959471779,
+    "star_factor": 0.4615384615
+  },
+  {
+    "dish": "baked pork",
+    "dish_frequency": 0.0095593378,
+    "sentiment_factor": 0.6998919429,
+    "star_factor": 0.6373626374
+  },
+  {
+    "dish": "foo yong",
+    "dish_frequency": 0.0058288645,
+    "sentiment_factor": 0.5680495103,
+    "star_factor": 0.6346153846
+  },
+  {
+    "dish": "pot stickers",
+    "dish_frequency": 0.1212403824,
+    "sentiment_factor": 0.6689675465,
+    "star_factor": 0.6152369703
+  },
+  {
+    "dish": "summer rolls",
+    "dish_frequency": 0.004429937,
+    "sentiment_factor": 0.6804310686,
+    "star_factor": 0.7461538462
+  },
+  {
+    "dish": "beef boiled",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.9197394954,
+    "star_factor": 0.7884615385
+  },
+  {
+    "dish": "salt and pepper shrimp",
+    "dish_frequency": 0.0279785498,
+    "sentiment_factor": 0.7350524561,
+    "star_factor": 0.6929434202
+  },
+  {
+    "dish": "beef fried rice",
+    "dish_frequency": 0.0121240382,
+    "sentiment_factor": 0.6778662524,
+    "star_factor": 0.6400580552
+  },
+  {
+    "dish": "shabu shabu",
+    "dish_frequency": 0.00559571,
+    "sentiment_factor": 0.6618626914,
+    "star_factor": 0.6507692308
+  },
+  {
+    "dish": "tofu seafood",
+    "dish_frequency": 0.0009326183,
+    "sentiment_factor": 0.4734011681,
+    "star_factor": 0.5461538462
+  },
+  {
+    "dish": "pork buns",
+    "dish_frequency": 0.0722779203,
+    "sentiment_factor": 0.6949162833,
+    "star_factor": 0.6120455108
+  },
+  {
+    "dish": "chicken hainan with rice",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.3894356155,
+    "star_factor": 0.8461538462
+  },
+  {
+    "dish": "chicken chow",
+    "dish_frequency": 0.0489624621,
+    "sentiment_factor": 0.3919068923,
+    "star_factor": 0.5517681371
+  },
+  {
+    "dish": "pad thai",
+    "dish_frequency": 0.1914199114,
+    "sentiment_factor": 0.6079963895,
+    "star_factor": 0.6066816395
+  },
+  {
+    "dish": "cashew shrimp",
+    "dish_frequency": 0.0034973187,
+    "sentiment_factor": 0.5600976471,
+    "star_factor": 0.6778846154
+  },
+  {
+    "dish": "peking duck",
+    "dish_frequency": 0.0622522733,
+    "sentiment_factor": 0.7731990529,
+    "star_factor": 0.7019230769
+  },
+  {
+    "dish": "kway teow",
+    "dish_frequency": 0.0041967825,
+    "sentiment_factor": 0.6376288481,
+    "star_factor": 0.7105263158
+  },
+  {
+    "dish": "kung po",
+    "dish_frequency": 0.0289111681,
+    "sentiment_factor": 0.5297679035,
+    "star_factor": 0.6178461538
+  },
+  {
+    "dish": "jerk rice",
+    "dish_frequency": 0.0058288645,
+    "sentiment_factor": 0.4980377619,
+    "star_factor": 0.6923076923
+  },
+  {
+    "dish": "steamed buns",
+    "dish_frequency": 0.0184192119,
+    "sentiment_factor": 0.6659195503,
+    "star_factor": 0.6480769231
+  },
+  {
+    "dish": "yellow curry",
+    "dish_frequency": 0.0240149219,
+    "sentiment_factor": 0.7194136037,
+    "star_factor": 0.6845414201
+  },
+  {
+    "dish": "tofu fried",
+    "dish_frequency": 0.0016320821,
+    "sentiment_factor": 0.573757813,
+    "star_factor": 0.3701923077
+  },
+  {
+    "dish": "chicken lettuce",
+    "dish_frequency": 0.0396362789,
+    "sentiment_factor": 0.4705356812,
+    "star_factor": 0.5931174089
+  },
+  {
+    "dish": "steamed bao",
+    "dish_frequency": 0.0013989275,
+    "sentiment_factor": 0.7916744867,
+    "star_factor": 0.6813186813
+  },
+  {
+    "dish": "sliced fish",
+    "dish_frequency": 0.002797855,
+    "sentiment_factor": 0.6210390531,
+    "star_factor": 0.7130177515
+  },
+  {
+    "dish": "pork sandwich",
+    "dish_frequency": 0.0058288645,
+    "sentiment_factor": 0.6174014381,
+    "star_factor": 0.5281065089
+  },
+  {
+    "dish": "seafood noodle",
+    "dish_frequency": 0.0177197482,
+    "sentiment_factor": 0.6453686144,
+    "star_factor": 0.5674325674
+  },
+  {
+    "dish": "beef chow",
+    "dish_frequency": 0.0764747027,
+    "sentiment_factor": 0.6999415985,
+    "star_factor": 0.6368950199
+  },
+  {
+    "dish": "tempura roll",
+    "dish_frequency": 0.0090930287,
+    "sentiment_factor": 0.691375308,
+    "star_factor": 0.6461538462
+  },
+  {
+    "dish": "pork and pepper",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.4627393761,
+    "star_factor": 0.8076923077
+  },
+  {
+    "dish": "sushi and sashimi",
+    "dish_frequency": 0.0060620191,
+    "sentiment_factor": 0.6977110821,
+    "star_factor": 0.688034188
+  },
+  {
+    "dish": "tofu and mushroom",
+    "dish_frequency": 0.0048962462,
+    "sentiment_factor": 0.6522888686,
+    "star_factor": 0.6765734266
+  },
+  {
+    "dish": "hainanese chicken",
+    "dish_frequency": 0.0074609466,
+    "sentiment_factor": 0.486500034,
+    "star_factor": 0.6491841492
+  },
+  {
+    "dish": "cabbage and pork",
+    "dish_frequency": 0.0009326183,
+    "sentiment_factor": 0.6242278009,
+    "star_factor": 0.7076923077
+  },
+  {
+    "dish": "sashimi and sushi",
+    "dish_frequency": 0.0016320821,
+    "sentiment_factor": 0.7969924234,
+    "star_factor": 0.6826923077
+  },
+  {
+    "dish": "gai lan",
+    "dish_frequency": 0.0081604104,
+    "sentiment_factor": 0.6202078554,
+    "star_factor": 0.6314102564
+  },
+  {
+    "dish": "dried shrimp",
+    "dish_frequency": 0.0051294008,
+    "sentiment_factor": 0.5947132448,
+    "star_factor": 0.7090301003
+  },
+  {
+    "dish": "chicken satay",
+    "dish_frequency": 0.0209839123,
+    "sentiment_factor": 0.51031297,
+    "star_factor": 0.6787827557
+  },
+  {
+    "dish": "pork and cabbage",
+    "dish_frequency": 0.0025647004,
+    "sentiment_factor": 0.6277474425,
+    "star_factor": 0.5929487179
+  },
+  {
+    "dish": "rice and pork chop",
+    "dish_frequency": 0.0002331546,
+    "sentiment_factor": 0.3456370385,
+    "star_factor": 0.5
+  },
+  {
+    "dish": "chinese sausage",
+    "dish_frequency": 0.0123571928,
+    "sentiment_factor": 0.7020812838,
+    "star_factor": 0.7143874644
+  },
+  {
+    "dish": "pulled pork",
+    "dish_frequency": 0.0053625554,
+    "sentiment_factor": 0.6623435617,
+    "star_factor": 0.7516025641
+  },
+  {
+    "dish": "almond chicken",
+    "dish_frequency": 0.012823502,
+    "sentiment_factor": 0.4492140225,
+    "star_factor": 0.5858516484
+  },
+  {
+    "dish": "dimsum",
+    "dish_frequency": 0.0410352063,
+    "sentiment_factor": 0.6909987744,
+    "star_factor": 0.5697522816
+  },
+  {
+    "dish": "chow fun",
+    "dish_frequency": 0.1398927489,
+    "sentiment_factor": 0.7064437367,
+    "star_factor": 0.6439907846
+  },
+  {
+    "dish": "toast with shrimp",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.6913784028,
+    "star_factor": 0.4615384615
+  },
+  {
+    "dish": "fried brown rice",
+    "dish_frequency": 0.0009326183,
+    "sentiment_factor": 0.5395814215,
+    "star_factor": 0.4538461538
+  },
+  {
+    "dish": "shark fin",
+    "dish_frequency": 0.0167871299,
+    "sentiment_factor": 0.6183662775,
+    "star_factor": 0.5611169652
+  },
+  {
+    "dish": "rolls of sushi",
+    "dish_frequency": 0.0011657729,
+    "sentiment_factor": 0.5185142628,
+    "star_factor": 0.608974359
+  },
+  {
+    "dish": "beef and broccoli chicken",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.3118346832,
+    "star_factor": 0.7692307692
+  },
+  {
+    "dish": "egg foo young",
+    "dish_frequency": 0.0589881091,
+    "sentiment_factor": 0.585969965,
+    "star_factor": 0.6052392489
+  },
+  {
+    "dish": "fish balls",
+    "dish_frequency": 0.0153882024,
+    "sentiment_factor": 0.6843209953,
+    "star_factor": 0.7227324914
+  },
+  {
+    "dish": "steamed fish",
+    "dish_frequency": 0.0151550478,
+    "sentiment_factor": 0.6519994755,
+    "star_factor": 0.6509324009
+  },
+  {
+    "dish": "pork peking",
+    "dish_frequency": 0.0,
+    "sentiment_factor": 0.621751371,
+    "star_factor": 0.4615384615
+  },
+  {
+    "dish": "crab puffs",
+    "dish_frequency": 0.1266029377,
+    "sentiment_factor": 0.5946083436,
+    "star_factor": 0.6411199095
+  },
+  {
+    "dish": "general chicken",
+    "dish_frequency": 0.0167871299,
+    "sentiment_factor": 0.3955183298,
+    "star_factor": 0.5595363541
+  },
+  {
+    "dish": "hunan chicken",
+    "dish_frequency": 0.0069946374,
+    "sentiment_factor": 0.4886195113,
+    "star_factor": 0.6091811414
+  },
+  {
+    "dish": "rice noodle rolls",
+    "dish_frequency": 0.0023315458,
+    "sentiment_factor": 0.6563310375,
+    "star_factor": 0.5909090909
+  },
+  {
+    "dish": "steamed rice",
+    "dish_frequency": 0.0599207274,
+    "sentiment_factor": 0.4928510723,
+    "star_factor": 0.5421884317
+  },
+  {
+    "dish": "coconut milk",
+    "dish_frequency": 0.0179529028,
+    "sentiment_factor": 0.630830191,
+    "star_factor": 0.7051282051
+  },
+  {
+    "dish": "sushi rolls",
+    "dish_frequency": 0.0410352063,
+    "sentiment_factor": 0.6801938596,
+    "star_factor": 0.6421121252
+  },
+  {
+    "dish": "fried rice and chow",
+    "dish_frequency": 0.0060620191,
+    "sentiment_factor": 0.5013800089,
+    "star_factor": 0.5313390313
+  },
+  {
+    "dish": "seasoned rice",
+    "dish_frequency": 0.0053625554,
+    "sentiment_factor": 0.4854058746,
+    "star_factor": 0.6810897436
+  },
+  {
+    "dish": "hainanese chicken rice",
+    "dish_frequency": 0.0032641641,
+    "sentiment_factor": 0.352041064,
+    "star_factor": 0.6205128205
+  },
+  {
+    "dish": "duck noodles",
+    "dish_frequency": 0.0018652367,
+    "sentiment_factor": 0.6858218761,
+    "star_factor": 0.7564102564
+  }
+]

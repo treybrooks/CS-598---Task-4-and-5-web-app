@@ -1,0 +1,2602 @@
+[
+  {
+    "business_id": "VsO_rhXi5lgbaGxNwoEZsQ",
+    "business_name": "Fate 905",
+    "business_popularity": 0.0663615561,
+    "sentiment_factor": 0.3366008238,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "ykfTh6HI219NoMsWBxulxw",
+    "business_name": "Gourmet House of Hong Kong",
+    "business_popularity": 0.0564454615,
+    "sentiment_factor": 0.455968567,
+    "star_factor": 0.6714285714,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "PsuvqWNmLBU8ABkch2d9vA",
+    "business_name": "COFCO Chinese Culture Center",
+    "business_popularity": 0.0282227307,
+    "sentiment_factor": 0.5513331436,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "2unQHR9uaRxk3dsW6f3MGA",
+    "business_name": "Lao Ching Hing",
+    "business_popularity": 0.0343249428,
+    "sentiment_factor": 0.3451968534,
+    "star_factor": 0.5238095238,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "yQONzVpX-DEpGSuKMIov6A",
+    "business_name": "Szechwan Palace",
+    "business_popularity": 0.0976353928,
+    "sentiment_factor": 0.3070094883,
+    "star_factor": 0.5428571429,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "-3WVw1TNQbPBzaKCaQQ1AQ",
+    "business_name": "China Chili",
+    "business_popularity": 0.1685736079,
+    "sentiment_factor": 0.4255119119,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "UxMnY3Dxafucv5cXHyfBSA",
+    "business_name": "Hong Kong Restaurant",
+    "business_popularity": 0.0183066362,
+    "sentiment_factor": 0.3089375527,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "3DMvGD8ZmlMQmhwV66hdSA",
+    "business_name": "China Village",
+    "business_popularity": 0.0358504958,
+    "sentiment_factor": 0.4570380852,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "m9Wqqma30o-hH2fAX7dnug",
+    "business_name": "Desert Jade",
+    "business_popularity": 0.0724637681,
+    "sentiment_factor": 0.4998089809,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "BicQSnGZnY_yuGEDkhVfnA",
+    "business_name": "Little Shanghai",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.2694418338,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "F3SEkW6v2LJ5y6Ldo5pPaw",
+    "business_name": "Super Dragon",
+    "business_popularity": 0.0442410374,
+    "sentiment_factor": 0.3357556119,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "aozcOaCMwOHG8s-lbZ6_gA",
+    "business_name": "Flamingo Palace",
+    "business_popularity": 0.0724637681,
+    "sentiment_factor": 0.3073557521,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "cuxqnMMmbBV0iE2KJJy60Q",
+    "business_name": "A A Wok",
+    "business_popularity": 0.001525553,
+    "sentiment_factor": 0.6111207343,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "dvjYiddhJ2HrosdSBAqngg",
+    "business_name": "Go Go China",
+    "business_popularity": 0.0190694127,
+    "sentiment_factor": 0.0,
+    "star_factor": 0.0,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "R7YlKfLpoFDAJQB9hBcQJA",
+    "business_name": "China Restaurant",
+    "business_popularity": 0.0129672006,
+    "sentiment_factor": 0.2422659663,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "-Ogv7rpcgUHkFaSy3vD8Sw",
+    "business_name": "Hong Kong Gourmet Buffet",
+    "business_popularity": 0.0678871091,
+    "sentiment_factor": 0.3396313428,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "8TGUK7LD3M-vLWml-jLb0w",
+    "business_name": "Best Hong Kong Dining",
+    "business_popularity": 0.0419527079,
+    "sentiment_factor": 0.3971187062,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "jLxo_UgnGfKHSPK7gGa5LA",
+    "business_name": "Lucky Sushi & Chinese Restaurant",
+    "business_popularity": 0.0175438596,
+    "sentiment_factor": 0.6532560177,
+    "star_factor": 0.7321428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "zlatJeuJl05vsJoHM6XEDA",
+    "business_name": "Red Dragon Chinese Food",
+    "business_popularity": 0.0343249428,
+    "sentiment_factor": 0.2948467627,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "k83LpHfy9j05POm4rxBVSA",
+    "business_name": "China Way Restaurant",
+    "business_popularity": 0.0282227307,
+    "sentiment_factor": 0.1914511279,
+    "star_factor": 0.2857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "z4KFTJQsAdxqMZA7Fx0A9A",
+    "business_name": "C-Fu Gourmet Restaurant",
+    "business_popularity": 0.0816170862,
+    "sentiment_factor": 0.4109536371,
+    "star_factor": 0.5311550152,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "UIGFrEcoDsw05I1UOrxdOA",
+    "business_name": "Cyclo Vietnamese Cuisine",
+    "business_popularity": 0.1113653699,
+    "sentiment_factor": 0.4343425603,
+    "star_factor": 0.75,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "aI_RzGMU35cFL1St2HgPkw",
+    "business_name": "House of Yang",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.3539493704,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "wUPHVWGmoBU_gykHl1Kzxg",
+    "business_name": "Joyful Chinese Dining",
+    "business_popularity": 0.0228832952,
+    "sentiment_factor": 0.4141002572,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "vjhOjeoKL_TGPXON6XDEsQ",
+    "business_name": "Hunan Express Chinese Delivery",
+    "business_popularity": 0.0335621663,
+    "sentiment_factor": 0.4223668837,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "OfoG4gnacvSo2vG9285njQ",
+    "business_name": "Yao Fine Chinese Cuisine",
+    "business_popularity": 0.0358504958,
+    "sentiment_factor": 0.4110565601,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "nOb5CUmPsVFV9PCKOpgcFw",
+    "business_name": "Golden Rice Express",
+    "business_popularity": 0.0129672006,
+    "sentiment_factor": 0.2937423046,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "1svyifERkfuuz02lbeK2dA",
+    "business_name": "Great Wall Buffet",
+    "business_popularity": 0.0038138825,
+    "sentiment_factor": 0.3618431495,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "zOJdahdaaLz7DpfdIucslg",
+    "business_name": "Pei Wei Asian Diner",
+    "business_popularity": 0.0335621663,
+    "sentiment_factor": 0.2721244299,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "H2eCY4wIIudy5C0BW5Y3ZQ",
+    "business_name": "Bangkok Orchid",
+    "business_popularity": 0.0457665904,
+    "sentiment_factor": 0.2696030534,
+    "star_factor": 0.25,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "AFDFOs2GaIyUArGyEUDQzQ",
+    "business_name": "Cafe Noodle & Chinese Barbeque",
+    "business_popularity": 0.1052631579,
+    "sentiment_factor": 0.3947232199,
+    "star_factor": 0.59375,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "FV16IeXJp2W6pnghTz2FAw",
+    "business_name": "Pho Kim Long",
+    "business_popularity": 1.0,
+    "sentiment_factor": 0.4039403243,
+    "star_factor": 0.5601045296,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "1ldDbggHHgPlj3k0SpBTKQ",
+    "business_name": "Sam Woo BBQ Restaurant",
+    "business_popularity": 0.2135774218,
+    "sentiment_factor": 0.2765229685,
+    "star_factor": 0.2298136646,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "pj0vl4DIlDCChe80Df40Yw",
+    "business_name": "Food Express Chinese Restaurant",
+    "business_popularity": 0.0869565217,
+    "sentiment_factor": 0.6224343959,
+    "star_factor": 0.7428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "V3S6RpKgYc5XCLjgI9JeeQ",
+    "business_name": "Diamond China Restaurant",
+    "business_popularity": 0.0221205187,
+    "sentiment_factor": 0.4501561702,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "Tigw_9LXyHL63Eu3XAXwRw",
+    "business_name": "Emperor's Garden",
+    "business_popularity": 0.06331045,
+    "sentiment_factor": 0.2449298822,
+    "star_factor": 0.0357142857,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "zFcd_gelAUEwAvJOgiZpvg",
+    "business_name": "Joyful House Chinese Cuisine",
+    "business_popularity": 0.2067124333,
+    "sentiment_factor": 0.4237866976,
+    "star_factor": 0.6587301587,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "DqzyOJTJXu0Iwi8og5DJDA",
+    "business_name": "Ocha Cuisine",
+    "business_popularity": 0.0755148741,
+    "sentiment_factor": 0.679318892,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "q28CkzJaV5yKPXysY8xewA",
+    "business_name": "Buffet @ Asia",
+    "business_popularity": 0.0922959573,
+    "sentiment_factor": 0.4318720548,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "OWQJrnXbWkLTI1-qRkkUpQ",
+    "business_name": "Golden Flower Chinese Cuisine",
+    "business_popularity": 0.0655987796,
+    "sentiment_factor": 0.3931758401,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "HNmyXUXKSr3JI2yXuU7EMQ",
+    "business_name": "Diamond China 2",
+    "business_popularity": 0.0144927536,
+    "sentiment_factor": 0.5701375215,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "7tF__YC7VkQs671ZtsYrgw",
+    "business_name": "Great China",
+    "business_popularity": 0.0083905416,
+    "sentiment_factor": 0.5210774836,
+    "star_factor": 0.5178571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "1MJ5xmHmeCiau07X2bQyUQ",
+    "business_name": "KJ Kitchen",
+    "business_popularity": 0.1479786423,
+    "sentiment_factor": 0.4503829978,
+    "star_factor": 0.7087912088,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "Xnwjo2TUu4AyGdmsxeG7OQ",
+    "business_name": "Cathay House Restaurant",
+    "business_popularity": 0.1647597254,
+    "sentiment_factor": 0.3912468822,
+    "star_factor": 0.4582324455,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "DR4xcr3eJ0vfYRomvx036w",
+    "business_name": "Wah Kee Wonton Noodle",
+    "business_popularity": 0.0579710145,
+    "sentiment_factor": 0.4327996097,
+    "star_factor": 0.6047619048,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "hmPkit7DjWX9raBoACw_rg",
+    "business_name": "Hong Kong Wok",
+    "business_popularity": 0.0175438596,
+    "sentiment_factor": 0.476146686,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "JqFd6WfrCqDvvgPmfY5njw",
+    "business_name": "Hong Kong Cafe",
+    "business_popularity": 0.0221205187,
+    "sentiment_factor": 0.324379488,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "iFd_GU21RrxyzL8eE0RQEQ",
+    "business_name": "Nam's Noodle & Karaoke Bar",
+    "business_popularity": 0.0244088482,
+    "sentiment_factor": 0.4295766816,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "Xsl-i1otDd3GXJEkkKJCaw",
+    "business_name": "Diamond's Chinese Restaurant",
+    "business_popularity": 0.0381388253,
+    "sentiment_factor": 0.3941489277,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "1vYaGPKQzMebBJXFCGTH2g",
+    "business_name": "The Prime Chinese Restaurant",
+    "business_popularity": 0.0465293669,
+    "sentiment_factor": 0.4176165383,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "XbVqzUHS3c9FhG4lI13c3Q",
+    "business_name": "Maxim Restaurant",
+    "business_popularity": 0.0884820748,
+    "sentiment_factor": 0.418627088,
+    "star_factor": 0.6883116883,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "0db71MbrvcJnyk71COCJBg",
+    "business_name": "Great Wall Cuisine",
+    "business_popularity": 0.1273836766,
+    "sentiment_factor": 0.452661817,
+    "star_factor": 0.6511627907,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "Vb1tNz0Tlm1q41A4gjY-cg",
+    "business_name": "Great Wall Buffet Two Corporation",
+    "business_popularity": 0.0053394355,
+    "sentiment_factor": 0.466111919,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "B5hhRbxDIADG-bFaQIEWag",
+    "business_name": "New Asian Kitchen",
+    "business_popularity": 0.0350877193,
+    "sentiment_factor": 0.5686605216,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "eW-hTjKrt91NnQ9xzMYtDQ",
+    "business_name": "China China Restaurant",
+    "business_popularity": 0.0175438596,
+    "sentiment_factor": 0.364754508,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "CycfCC0OLvTjG3Eks8D1og",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.0671243326,
+    "sentiment_factor": 0.4987454207,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "stH6XAn2Drzol1H5oGvL2A",
+    "business_name": "Jade Palace",
+    "business_popularity": 0.0495804729,
+    "sentiment_factor": 0.4009695485,
+    "star_factor": 0.7619047619,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "rt20ZJn4lY6e7cUQ41yPkg",
+    "business_name": "China Wok",
+    "business_popularity": 0.0625476735,
+    "sentiment_factor": 0.3584983814,
+    "star_factor": 0.25,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "ZdQbDVZWDsO-d7q2qW8E3A",
+    "business_name": "George & Son's Asian Cuisine",
+    "business_popularity": 0.0854309687,
+    "sentiment_factor": 0.4784431033,
+    "star_factor": 0.619047619,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "pSiR8m18iick2D7TFdmb-Q",
+    "business_name": "Wong's Place",
+    "business_popularity": 0.06331045,
+    "sentiment_factor": 0.3867729237,
+    "star_factor": 0.3333333333,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "baV9mE-cD9u-buA9N_k-Xg",
+    "business_name": "China Town Buffet",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.3365722925,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "sNuyncpQdcvfEpfZS-3Yew",
+    "business_name": "Tott's Asian Diner",
+    "business_popularity": 0.1601830664,
+    "sentiment_factor": 0.5339256873,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "VEDXuvU1gZy3PqD9q32uwQ",
+    "business_name": "King Wah Express",
+    "business_popularity": 0.0144927536,
+    "sentiment_factor": 0.2984969622,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "oTbX18g48jcf9h-max38oQ",
+    "business_name": "Wing Hing",
+    "business_popularity": 0.0099160946,
+    "sentiment_factor": 0.3189217976,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "HL_UIPnpucXrP7IHMoJGjA",
+    "business_name": "Chen & Wok",
+    "business_popularity": 0.0091533181,
+    "sentiment_factor": 0.39743678,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "3dQqoz-yHhOfHrIBMRCD3w",
+    "business_name": "Jasmine Express",
+    "business_popularity": 0.0762776506,
+    "sentiment_factor": 0.4671539999,
+    "star_factor": 0.6714285714,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "2Dbg35sPSGmZGcbBVNa9dA",
+    "business_name": "Kung Fu Thai & Chinese Restaurant",
+    "business_popularity": 0.1617086194,
+    "sentiment_factor": 0.4315084089,
+    "star_factor": 0.494047619,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "y61Tq9hErVKoT6w-qyRpwQ",
+    "business_name": "Golden Dragon Chinese Cuisine",
+    "business_popularity": 0.0259344012,
+    "sentiment_factor": 0.4155834769,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "5tYLVPc2PKnj6E62sY6QMg",
+    "business_name": "Chang's Hong Kong Cuisine",
+    "business_popularity": 0.2463768116,
+    "sentiment_factor": 0.427110123,
+    "star_factor": 0.5610422741,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "k-hE27MVMEBWdMsto1DeUA",
+    "business_name": "Koji Restaurant",
+    "business_popularity": 0.0434782609,
+    "sentiment_factor": 0.4959671124,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "Q9KILetOPQLzIf7Ki3D8-g",
+    "business_name": "Little Buddha Restaurant & Sushi Bar",
+    "business_popularity": 0.1411136537,
+    "sentiment_factor": 0.3099579771,
+    "star_factor": 0.5178571429,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "q35bospqfYhJfMsqE79NvA",
+    "business_name": "Dragon Noodle Co.",
+    "business_popularity": 0.1029748284,
+    "sentiment_factor": 0.3516519268,
+    "star_factor": 0.3761904762,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "HT-3izSFU8ZMazvSqrADyw",
+    "business_name": "Chin Chin Chinese Restaurant",
+    "business_popularity": 0.1449275362,
+    "sentiment_factor": 0.3395100125,
+    "star_factor": 0.3163265306,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "Ug97walz3YLxPMrpkktsFg",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.0831426392,
+    "sentiment_factor": 0.1767557754,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "Bpp8unXZmbyxSZS7D93Jog",
+    "business_name": "Chop Chop Wok",
+    "business_popularity": 0.0533943555,
+    "sentiment_factor": 0.2232321839,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "kUtoL4B9BBVgViPHk9B8EQ",
+    "business_name": "New China Buffet",
+    "business_popularity": 0.0083905416,
+    "sentiment_factor": 0.39626429,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "4ZuYJjjFrqgyDEeYoizyIw",
+    "business_name": "Wo Fat",
+    "business_popularity": 0.0564454615,
+    "sentiment_factor": 0.4683956669,
+    "star_factor": 0.6865079365,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "5kOYuJtRjAUWZGDkP8vnRw",
+    "business_name": "Beijing Chinese Cuisine",
+    "business_popularity": 0.0297482838,
+    "sentiment_factor": 0.4726085286,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "lzoTXcynmfZ6Ler5B4HbfQ",
+    "business_name": "Thai House Restaurant",
+    "business_popularity": 0.1266209001,
+    "sentiment_factor": 0.4811266429,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "t-oEAKaswXxRUjvJrLr-Vw",
+    "business_name": "Cook On Wok",
+    "business_popularity": 0.0274599542,
+    "sentiment_factor": 0.2242686713,
+    "star_factor": 0.2142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "k2zE7IsSi2lVpnrjqZXAdw",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.0938215103,
+    "sentiment_factor": 0.3863172551,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "hrOsdyai-9B91cGjBspHqw",
+    "business_name": "Tao Garden",
+    "business_popularity": 0.0396643783,
+    "sentiment_factor": 0.4202028994,
+    "star_factor": 0.6607142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "dMwwBt0BcE4zfIiBBXMogg",
+    "business_name": "Jasmine",
+    "business_popularity": 0.1273836766,
+    "sentiment_factor": 0.4535463032,
+    "star_factor": 0.6142857143,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "zxqvU415r_RtZRKDtdbIKQ",
+    "business_name": "Jade Palace",
+    "business_popularity": 0.0892448513,
+    "sentiment_factor": 0.4648381031,
+    "star_factor": 0.5612244898,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "jbKVbSz51F8IcewsiRQu4A",
+    "business_name": "Golden Buddha",
+    "business_popularity": 0.1022120519,
+    "sentiment_factor": 0.4053593637,
+    "star_factor": 0.4801587302,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Bc5bgPG1MlTc75G0A-_7fg",
+    "business_name": "Taiwan Express",
+    "business_popularity": 0.0038138825,
+    "sentiment_factor": 0.5834272758,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "rGhbYmGvoqU7IVrmuNQi2g",
+    "business_name": "Red 8",
+    "business_popularity": 0.2433257056,
+    "sentiment_factor": 0.3922839889,
+    "star_factor": 0.5140692641,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "enbTOcl7WNgsjsAtmhvDRA",
+    "business_name": "Mu Shu Asian Grill",
+    "business_popularity": 0.0480549199,
+    "sentiment_factor": 0.4442733685,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "tcphcsPONrP82kUyvcELoA",
+    "business_name": "Noodle Asia",
+    "business_popularity": 0.41266209,
+    "sentiment_factor": 0.4419023043,
+    "star_factor": 0.5746336996,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "sgBl3UDEcNYKwuUb92CYdA",
+    "business_name": "China King",
+    "business_popularity": 0.115942029,
+    "sentiment_factor": 0.4143729386,
+    "star_factor": 0.5858070501,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "E9ZsPtGovfEPHlMHkDdlQA",
+    "business_name": "Noodles",
+    "business_popularity": 0.3722349352,
+    "sentiment_factor": 0.4118502241,
+    "star_factor": 0.5111111111,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "23SJEjfyU5gxY2chAKhgcw",
+    "business_name": "Orchids Garden Chinese Restaurant",
+    "business_popularity": 0.3073989321,
+    "sentiment_factor": 0.427095953,
+    "star_factor": 0.5699023199,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "Lnohr9bpCbHNsomazXDg-w",
+    "business_name": "Chino Bandido",
+    "business_popularity": 0.2433257056,
+    "sentiment_factor": 0.3508919626,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "0QTn4pMzKv1mnQifcP9YoQ",
+    "business_name": "Autumn Court Chinese Restaurant",
+    "business_popularity": 0.06331045,
+    "sentiment_factor": 0.4028735804,
+    "star_factor": 0.5178571429,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "tI3J5jomrBs--n7r92186g",
+    "business_name": "Ping Pang Pong",
+    "business_popularity": 0.3012967201,
+    "sentiment_factor": 0.4122356218,
+    "star_factor": 0.5685790274,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "xcOncADGPr9eki8OU5Ln7g",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.0831426392,
+    "sentiment_factor": 0.3830042803,
+    "star_factor": 0.5357142857,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "UtUXhKh7vOVvWJF48IzJvQ",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.0701754386,
+    "sentiment_factor": 0.5073001374,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "qXFAEWRjEgXO3RXOzMAjBg",
+    "business_name": "Thai Vegas",
+    "business_popularity": 0.0167810831,
+    "sentiment_factor": 0.2799699427,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "RhuMVpo6iqdE8PBv0HcX5w",
+    "business_name": "Monterey Room",
+    "business_popularity": 0.001525553,
+    "sentiment_factor": 0.5824722917,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Sb3xeEYG-uEEWcWqsLTZUA",
+    "business_name": "Noodle Palace",
+    "business_popularity": 0.0404271548,
+    "sentiment_factor": 0.5518763602,
+    "star_factor": 0.6285714286,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "LXvueihSmsfvlCHkrz8gLw",
+    "business_name": "China Grill",
+    "business_popularity": 0.0961098398,
+    "sentiment_factor": 0.477227022,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "AumuGuTg3HqvtwbLPi-ZCg",
+    "business_name": "Satay Thai Bistro & Bar",
+    "business_popularity": 0.1929824561,
+    "sentiment_factor": 0.3494025601,
+    "star_factor": 0.7619047619,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "4nWKKGZGFc4nWUbJTunMAw",
+    "business_name": "Asian Seafood Buffet",
+    "business_popularity": 0.0038138825,
+    "sentiment_factor": 0.3463987747,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "8-HkVgPClpSli0ug3Uk-sQ",
+    "business_name": "Harbor Palace",
+    "business_popularity": 0.1212814645,
+    "sentiment_factor": 0.344872816,
+    "star_factor": 0.3143738977,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "r3HWH8XeoV9uohlcrwrMSw",
+    "business_name": "Sun Asian Kitchen",
+    "business_popularity": 0.0579710145,
+    "sentiment_factor": 0.2225937412,
+    "star_factor": 0.2142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "PSFWA3pgyB0-uE6hG2GXAQ",
+    "business_name": "Capital Seafood Restaurant",
+    "business_popularity": 0.0343249428,
+    "sentiment_factor": 0.38575938,
+    "star_factor": 0.5952380952,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "ECbznso003XMWuS5jfClyw",
+    "business_name": "Shanghai Lilly",
+    "business_popularity": 0.0259344012,
+    "sentiment_factor": 0.4220141084,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Q3klrPwtiLO5WS2LWXIvpA",
+    "business_name": "New Shanghai Restaurant",
+    "business_popularity": 0.0190694127,
+    "sentiment_factor": 0.6303887516,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "a1t31qMLd5fQocEjbSJ61A",
+    "business_name": "Noodle Shop",
+    "business_popularity": 0.1708619375,
+    "sentiment_factor": 0.3753562568,
+    "star_factor": 0.2770562771,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "A4pL6j3e6JAtblmCUF2GZA",
+    "business_name": "Crazy Buffet",
+    "business_popularity": 0.061784897,
+    "sentiment_factor": 0.319836018,
+    "star_factor": 0.5357142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "dxAlupwjiQH91m4cE9a17g",
+    "business_name": "Wahsun Chinese Restaurant",
+    "business_popularity": 0.0419527079,
+    "sentiment_factor": 0.4427355364,
+    "star_factor": 0.7619047619,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "9Qt1pt0pk2VWz0chdGk-jw",
+    "business_name": "Phoenix Palace",
+    "business_popularity": 0.1258581236,
+    "sentiment_factor": 0.4249974926,
+    "star_factor": 0.6030505952,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "5Va2HCh_R2fhdGI15K32XA",
+    "business_name": "Good China Restaurant",
+    "business_popularity": 0.0190694127,
+    "sentiment_factor": 0.3886245698,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "jpgmMTN__BHg_lnJEUjM-g",
+    "business_name": "Jade Palace",
+    "business_popularity": 0.003051106,
+    "sentiment_factor": 0.4257575738,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Y6vZpT6FB7uQftDGf9jaDA",
+    "business_name": "Ginger China Bistro",
+    "business_popularity": 0.0274599542,
+    "sentiment_factor": 0.3143756607,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "ChmqODwuYP1ewjmWXtxtsg",
+    "business_name": "Nee House Chinese Restaurant",
+    "business_popularity": 0.0869565217,
+    "sentiment_factor": 0.4278821761,
+    "star_factor": 0.7053571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "LI8-xzJrr27hOhzMtRTW2Q",
+    "business_name": "Phoenix Palace",
+    "business_popularity": 0.003051106,
+    "sentiment_factor": 0.3496196304,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "XMRj865sZBPWCI7tx0uBWw",
+    "business_name": "Asian Cafe Express",
+    "business_popularity": 0.1647597254,
+    "sentiment_factor": 0.4365734333,
+    "star_factor": 0.7815934066,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "c6O2rCTMbC4dDJe8DbXiuA",
+    "business_name": "Hong Kong Kitchen",
+    "business_popularity": 0.0083905416,
+    "sentiment_factor": 0.263553315,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "PR5KXD_CUs05MGfXJ8CS3Q",
+    "business_name": "Pei Wei Asian Diner",
+    "business_popularity": 0.0411899314,
+    "sentiment_factor": 0.2326734182,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "6qnB6AQSur85BLx6c11dOA",
+    "business_name": "Hue Thai",
+    "business_popularity": 0.1655225019,
+    "sentiment_factor": 0.3710442275,
+    "star_factor": 0.369047619,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "MandyVkCOm5qzmhuqdku_Q",
+    "business_name": "Champion Gourmet",
+    "business_popularity": 0.0068649886,
+    "sentiment_factor": 1.0,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "e-5Vy_iwz8fH5EfKkiuWgg",
+    "business_name": "Kan's Kitchen",
+    "business_popularity": 0.0061022121,
+    "sentiment_factor": 0.3610411542,
+    "star_factor": 0.5803571429,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "93hEDkF4CU3z-og0f4hLRQ",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.0762776506,
+    "sentiment_factor": 0.3897036212,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Xa8Umq_plJIURPxM-Lkxmw",
+    "business_name": "Yummy Grill Sushi",
+    "business_popularity": 0.0427154844,
+    "sentiment_factor": 0.390486076,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "6FZ8lGPu5QkylrF8q8J3jQ",
+    "business_name": "Grand China",
+    "business_popularity": 0.0099160946,
+    "sentiment_factor": 0.3493849919,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "vvUqrP6K5ANqXEfY2JfnjQ",
+    "business_name": "China Joe's",
+    "business_popularity": 0.0122044241,
+    "sentiment_factor": 0.2241510515,
+    "star_factor": 0.0714285714,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "DoiIvRASpaPw6z0wveDAJw",
+    "business_name": "Baidu China Bistro",
+    "business_popularity": 0.0434782609,
+    "sentiment_factor": 0.4595991751,
+    "star_factor": 0.25,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "SWSZdo4sBhrcQSmN5e1myg",
+    "business_name": "China Ginger",
+    "business_popularity": 0.0251716247,
+    "sentiment_factor": 0.3108746827,
+    "star_factor": 0.3928571429,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "DvFOetqoZonh-7G6spAugw",
+    "business_name": "Pei Wei Asian Diner",
+    "business_popularity": 0.0717009916,
+    "sentiment_factor": 0.3454704733,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "C4CbD-0Rz4nglavf_0dRdg",
+    "business_name": "Ta Ta Bistro",
+    "business_popularity": 0.0694126621,
+    "sentiment_factor": 0.3738377432,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "jOgSvW9VNw0Cw9p8w5A2JQ",
+    "business_name": "Fin",
+    "business_popularity": 0.06331045,
+    "sentiment_factor": 0.3501134879,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "O9ro4MvZ7LDQC76zLEg7AQ",
+    "business_name": "Ming's Table",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.3761194218,
+    "star_factor": 0.3035714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "yOYFhiTjT-SM4spKtDk92w",
+    "business_name": "China Chan Restaurant",
+    "business_popularity": 0.0282227307,
+    "sentiment_factor": 0.4557041362,
+    "star_factor": 0.6221804511,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "tkHy13-6Iuc46OgBbmAaTw",
+    "business_name": "888 Noodle Bar",
+    "business_popularity": 0.0183066362,
+    "sentiment_factor": 0.4065501179,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "gEx0eIYokdsSZzF64DO7Mg",
+    "business_name": "Pearl",
+    "business_popularity": 0.0892448513,
+    "sentiment_factor": 0.4418528451,
+    "star_factor": 0.5178571429,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "vrf1r48AlfLdgm-x7C1aMw",
+    "business_name": "China A GoGo",
+    "business_popularity": 0.0358504958,
+    "sentiment_factor": 0.4698598224,
+    "star_factor": 0.2142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "HZjLErXWi1vZWMgsAjBEeQ",
+    "business_name": "Yunnan Garden",
+    "business_popularity": 0.122044241,
+    "sentiment_factor": 0.4134076261,
+    "star_factor": 0.7698412698,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "vk_yD30D0xGjz-Gn-Z1-lw",
+    "business_name": "Golden Wei",
+    "business_popularity": 0.0160183066,
+    "sentiment_factor": 0.4038594553,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "J7p_6myKKxYyjq4c5JJkAg",
+    "business_name": "Jade At the Palazzo",
+    "business_popularity": 0.0053394355,
+    "sentiment_factor": 0.4217435539,
+    "star_factor": 0.5892857143,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "8ZQc4awuK6_yvcERvczR5g",
+    "business_name": "Hong Kong Express",
+    "business_popularity": 0.0106788711,
+    "sentiment_factor": 0.4064428454,
+    "star_factor": 0.375,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "mjoxSQR7bFQtlIIjfNfaSQ",
+    "business_name": "Big Buddha",
+    "business_popularity": 0.0922959573,
+    "sentiment_factor": 0.4682283497,
+    "star_factor": 0.6507936508,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "simnCuMX4OVwIhWaIqL4zA",
+    "business_name": "Red House",
+    "business_popularity": 0.0511060259,
+    "sentiment_factor": 0.421740714,
+    "star_factor": 0.5178571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "5W48_DnrXVD7EbtmE4pxOQ",
+    "business_name": "Little Dumpling Chinese & Thai Cuisine",
+    "business_popularity": 0.0434782609,
+    "sentiment_factor": 0.3218262326,
+    "star_factor": 0.5357142857,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "NsnZ5GhagXBKrCOelxVQxw",
+    "business_name": "SUSHISAMBA Las Vegas",
+    "business_popularity": 0.8611746758,
+    "sentiment_factor": 0.4868190661,
+    "star_factor": 0.6632653061,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "NhpdNYXoRofaa649drCz3g",
+    "business_name": "China Mama Restaurant",
+    "business_popularity": 0.1334858886,
+    "sentiment_factor": 0.4657406587,
+    "star_factor": 0.614010989,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "Eq6HUYlnhF__d1ie-I2RMg",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.0396643783,
+    "sentiment_factor": 0.3886740946,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "8SkoyQ3iHXECEit2BDwBrw",
+    "business_name": "Rice n Noodle",
+    "business_popularity": 0.0900076278,
+    "sentiment_factor": 0.4891625633,
+    "star_factor": 0.7321428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "kEICEqqG_01RgaNgvXc6Fw",
+    "business_name": "Yan's",
+    "business_popularity": 0.0251716247,
+    "sentiment_factor": 0.0573206249,
+    "star_factor": 0.1428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "EljtR0HL1PSNjm2CebisoA",
+    "business_name": "Hope Kee",
+    "business_popularity": 0.0152555301,
+    "sentiment_factor": 0.3691322296,
+    "star_factor": 0.55,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "Xo9a2Vm83Fao6MpprxWcKw",
+    "business_name": "Bobo China",
+    "business_popularity": 0.0511060259,
+    "sentiment_factor": 0.416365032,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "heA3OyKJq7O3HYPRAdfR4A",
+    "business_name": "Beijing Chinese Cuisine",
+    "business_popularity": 0.0259344012,
+    "sentiment_factor": 0.3449940273,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "kbzdkRp8m6kQDeNbkHwY1Q",
+    "business_name": "Chef Chiang",
+    "business_popularity": 0.0228832952,
+    "sentiment_factor": 0.5339659625,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "KzZ5Zww9W0IBWm5S2loUmQ",
+    "business_name": "China Max",
+    "business_popularity": 0.003051106,
+    "sentiment_factor": 0.4341283655,
+    "star_factor": 0.1428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "yCQ2KC8OETCyQDCRw7mXrg",
+    "business_name": "Golden China",
+    "business_popularity": 0.0091533181,
+    "sentiment_factor": 0.4371683963,
+    "star_factor": 0.6071428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "js12Ev8XKlh36gZeGHzQnA",
+    "business_name": "Zine Noodles Dim Sum",
+    "business_popularity": 0.1525553013,
+    "sentiment_factor": 0.3945390151,
+    "star_factor": 0.4063706564,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "LPNIKZPVt5W5iOWA7VsDJQ",
+    "business_name": "King Tin Restaurant",
+    "business_popularity": 0.0114416476,
+    "sentiment_factor": 0.2625675434,
+    "star_factor": 0.2619047619,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "BadvVbLYqeWe1v1QUBcoUw",
+    "business_name": "China Garden Restaurant",
+    "business_popularity": 0.0053394355,
+    "sentiment_factor": 0.5295993827,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "NCvNgK91IqtSub9JmH8H7g",
+    "business_name": "Crystal Palace Restaurant",
+    "business_popularity": 0.004576659,
+    "sentiment_factor": 0.5604212874,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "-O42yadp5Otp2F2DsilaFA",
+    "business_name": "Mah Jong",
+    "business_popularity": 0.0137299771,
+    "sentiment_factor": 0.4698489717,
+    "star_factor": 0.5102040816,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "xmbcKrf_at21psoEW7wM0w",
+    "business_name": "Grand China",
+    "business_popularity": 0.001525553,
+    "sentiment_factor": 0.3121864222,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "XK5hwOMD3M-cjGVBsEmrIw",
+    "business_name": "Pan Asia Sushi Chinese Fusion",
+    "business_popularity": 0.0655987796,
+    "sentiment_factor": 0.4701477428,
+    "star_factor": 0.4642857143,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "Mog8cxUbSs5DJ-4nGczi_Q",
+    "business_name": "Sun Chinese Dining",
+    "business_popularity": 0.0213577422,
+    "sentiment_factor": 0.4922766718,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "4zfrcEmGvZ4oYKx_revTxA",
+    "business_name": "Pho Chandler",
+    "business_popularity": 0.117467582,
+    "sentiment_factor": 0.3540061775,
+    "star_factor": 0.7619047619,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "msMM-KjV9g5xfPkWdp_xLw",
+    "business_name": "Dragon Way",
+    "business_popularity": 0.0076277651,
+    "sentiment_factor": 0.4879530552,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "QXk50LCKBJJwnQJ1Sw2cNg",
+    "business_name": "Saigon Saigon",
+    "business_popularity": 0.0244088482,
+    "sentiment_factor": 0.4417286826,
+    "star_factor": 0.5909090909,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "7ELa0-tY-4ZS33p3BlS3Zg",
+    "business_name": "Rainbow Arch Restaurant",
+    "business_popularity": 0.001525553,
+    "sentiment_factor": 0.4149066863,
+    "star_factor": 0.4642857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "yxvh7Hi4OwTiNqEjCMBvXQ",
+    "business_name": "Chop Chop",
+    "business_popularity": 0.0274599542,
+    "sentiment_factor": 0.4649870165,
+    "star_factor": 0.375,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "WqSQaa_sQW6Q5YjB6edMQA",
+    "business_name": "Ricebox Take Away Food Shops",
+    "business_popularity": 0.0053394355,
+    "sentiment_factor": 0.1333254746,
+    "star_factor": 0.0,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "FPfmUDyZASGKs60-dxn1TQ",
+    "business_name": "Kampong Ah Lee",
+    "business_popularity": 0.0160183066,
+    "sentiment_factor": 0.3389555889,
+    "star_factor": 0.5,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "CqKiF2X0_4erH02-CUiweQ",
+    "business_name": "J & K Gourmet",
+    "business_popularity": 0.0450038139,
+    "sentiment_factor": 0.5076388936,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "m-zkVdThpPsJxj3pZ2C7aw",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.0274599542,
+    "sentiment_factor": 0.4534931434,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "3cSnc2Ts0GckC9QRvlQbKA",
+    "business_name": "Noodle Exchange",
+    "business_popularity": 0.06331045,
+    "sentiment_factor": 0.4684933321,
+    "star_factor": 0.7091836735,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "r4VFTmgE_h6n3JnjG-Q-KQ",
+    "business_name": "Forbes KTV Restaurant & Bar",
+    "business_popularity": 0.0053394355,
+    "sentiment_factor": 0.4355614097,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "6AmBMN_8KBxjFii4inppJw",
+    "business_name": "BBQ King",
+    "business_popularity": 0.0358504958,
+    "sentiment_factor": 0.3894372472,
+    "star_factor": 0.3873626374,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "bCRrLdBLel3y73tA8w6C3Q",
+    "business_name": "Beijing Noodle No. 9",
+    "business_popularity": 0.292143402,
+    "sentiment_factor": 0.376856843,
+    "star_factor": 0.3612637363,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "jFoLuxZFScgt5ZXNPTIOhg",
+    "business_name": "Fusion Sushi & China Bistro",
+    "business_popularity": 0.0244088482,
+    "sentiment_factor": 0.6007790921,
+    "star_factor": 0.6666666667,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "sJxTGpYzpN14aG0_pbc0kA",
+    "business_name": "World Buffet",
+    "business_popularity": 0.0419527079,
+    "sentiment_factor": 0.4675877052,
+    "star_factor": 0.6071428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Ul1mS4EA2Q8DGyLB7gQXJA",
+    "business_name": "Beijing Restaurant",
+    "business_popularity": 0.0610221205,
+    "sentiment_factor": 0.2807428022,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "GmAGA39Wjv3MLT2ju5ALQQ",
+    "business_name": "P F Chang's China Bistro",
+    "business_popularity": 0.2036613272,
+    "sentiment_factor": 0.3351257064,
+    "star_factor": 0.3839285714,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "nH4CEJwrRXPxhfdL2pz3MA",
+    "business_name": "King Wok",
+    "business_popularity": 0.0327993898,
+    "sentiment_factor": 0.3597538817,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "40axkHtNTmROdIMQJ_gOsw",
+    "business_name": "Dong Ting Spring",
+    "business_popularity": 0.0327993898,
+    "sentiment_factor": 0.3624279519,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "E4-5m-mkGoEtxqNQ2ikqLg",
+    "business_name": "Food Express",
+    "business_popularity": 0.0137299771,
+    "sentiment_factor": 0.4211828383,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "yBvj8B6e0Bj7TRM2743Afw",
+    "business_name": "Anna's Garden",
+    "business_popularity": 0.0198321892,
+    "sentiment_factor": 0.3821277136,
+    "star_factor": 0.6369047619,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "Ieuv-XET6SR_qIscZzgD-A",
+    "business_name": "Hakkasan Restaurant",
+    "business_popularity": 0.1060259344,
+    "sentiment_factor": 0.4618075954,
+    "star_factor": 0.7,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "NdQMBelvH0TTe1pIrnFYmA",
+    "business_name": "HK Star",
+    "business_popularity": 0.0961098398,
+    "sentiment_factor": 0.375021005,
+    "star_factor": 0.5510204082,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "wZzUPdHpG2PM09evT72RMw",
+    "business_name": "Tang's Asian Bistro",
+    "business_popularity": 0.0068649886,
+    "sentiment_factor": 0.3723279044,
+    "star_factor": 0.2857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Ncb_n30Bn-gfl7WeYPXq2w",
+    "business_name": "Jade House",
+    "business_popularity": 0.0343249428,
+    "sentiment_factor": 0.4360201655,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "kIFYMeaYAQ44wQVQSO2qqA",
+    "business_name": "Fugu",
+    "business_popularity": 0.0678871091,
+    "sentiment_factor": 0.4155210093,
+    "star_factor": 0.630952381,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "NmYTwkqyaCtEg3wifBkxkw",
+    "business_name": "Wong's Jr",
+    "business_popularity": 0.0373760488,
+    "sentiment_factor": 0.4741122171,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "9x0rvR9SSX5mO1vUqx_hnQ",
+    "business_name": "Blossom Asian Cuisine",
+    "business_popularity": 0.0289855072,
+    "sentiment_factor": 0.5838157439,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "mzQp4bnowm0ELC7aJOqpLQ",
+    "business_name": "Ginseng 3",
+    "business_popularity": 0.0785659802,
+    "sentiment_factor": 0.3295093455,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "aOxyvODx3QeaE-jpw92hzw",
+    "business_name": "Jumbo Super Buffet",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.4989021816,
+    "star_factor": 0.4880952381,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "n6Hau_a7miaQtlb6gC2boQ",
+    "business_name": "Cafe China",
+    "business_popularity": 0.0221205187,
+    "sentiment_factor": 0.6843112937,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "sjO66SM-zICJr5VyumMuqA",
+    "business_name": "Cafe Ga Hyang",
+    "business_popularity": 0.0709382151,
+    "sentiment_factor": 0.3837583938,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "2sn5BECdlYxqQlw1VODDoA",
+    "business_name": "Wendy's Noodle Cafe",
+    "business_popularity": 0.2295957285,
+    "sentiment_factor": 0.4312771696,
+    "star_factor": 0.6520737327,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "E4b5OC_6mZ0V7B6Nyjncsg",
+    "business_name": "Tottie's Asian Fusion",
+    "business_popularity": 0.0877192982,
+    "sentiment_factor": 0.4440218127,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "e6Mpww7fKEmnfB4AaCAAyg",
+    "business_name": "Hong Kong Kitchen II",
+    "business_popularity": 0.0175438596,
+    "sentiment_factor": 0.2616030446,
+    "star_factor": 0.2857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "UK2LezJRdrNkmF_TH__rCg",
+    "business_name": "Tasty House Chinese Restaurant",
+    "business_popularity": 0.0205949657,
+    "sentiment_factor": 0.4739584733,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "VnTREYYq-cquQ3f2re8iBg",
+    "business_name": "Blossom",
+    "business_popularity": 0.0739893211,
+    "sentiment_factor": 0.4563926402,
+    "star_factor": 0.5142857143,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "uFi6gZIorIy9WGkCxnGrdQ",
+    "business_name": "Wasabi Jane's Rice & Noodle Works",
+    "business_popularity": 0.0114416476,
+    "sentiment_factor": 0.4346261838,
+    "star_factor": 0.5267857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "bfrjf244fMcEA-duT2aZuQ",
+    "business_name": "Jen Buffet",
+    "business_popularity": 0.0091533181,
+    "sentiment_factor": 0.4407095543,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "fJX4coaMuEwipbQlkhskWQ",
+    "business_name": "Pumi Express",
+    "business_popularity": 0.0274599542,
+    "sentiment_factor": 0.4779261873,
+    "star_factor": 0.6071428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "zJ9J3KunQy14DB0vAxxOwQ",
+    "business_name": "Panda Express",
+    "business_popularity": 0.004576659,
+    "sentiment_factor": 0.3813216586,
+    "star_factor": 0.1785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "PdW9m3apsOUc1p0ZlK3YSg",
+    "business_name": "Hot Wok Chinese Restaurant",
+    "business_popularity": 0.0190694127,
+    "sentiment_factor": 0.4898876173,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "_ZGPu2iKQSfmQ8l8lYN9bQ",
+    "business_name": "Dragon Bowl",
+    "business_popularity": 0.001525553,
+    "sentiment_factor": 0.51995746,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "u0Z0OwRYbwknE5Pr_CJhnw",
+    "business_name": "China One",
+    "business_popularity": 0.054157132,
+    "sentiment_factor": 0.2244505632,
+    "star_factor": 0.2321428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "BpMdiKy1Pf5VdBouzuui4A",
+    "business_name": "1 Eastern Super Buffet",
+    "business_popularity": 0.0183066362,
+    "sentiment_factor": 0.4858026549,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "JG_Bw1ZcX88rw7ALiUq-ZQ",
+    "business_name": "Yum Yum HK Diner",
+    "business_popularity": 0.004576659,
+    "sentiment_factor": 0.4504970947,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "nhpLx30hczfEsSXCTPy4tg",
+    "business_name": "New York Wok",
+    "business_popularity": 0.0190694127,
+    "sentiment_factor": 0.4089268079,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "NTggKFixR3SKESskkw3Rvw",
+    "business_name": "Meadowood Cafe",
+    "business_popularity": 0.001525553,
+    "sentiment_factor": 0.3761478967,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "7_LgHFNEVTqjibY3jIkfZA",
+    "business_name": "Cameron Chinese Seafood Restaurant",
+    "business_popularity": 0.0106788711,
+    "sentiment_factor": 0.5159771876,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "UHYxPlfmPLbEftz3Ntnfcg",
+    "business_name": "iKitchen",
+    "business_popularity": 0.0122044241,
+    "sentiment_factor": 0.4694555352,
+    "star_factor": 0.5535714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "jfDBaBgwINrGYAo8p2MJ4g",
+    "business_name": "China Magic Noodle House",
+    "business_popularity": 0.180778032,
+    "sentiment_factor": 0.468502489,
+    "star_factor": 0.6984126984,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "_SbBztPWznTFKG8l-fMJEQ",
+    "business_name": "Golden City Chinese Restruant",
+    "business_popularity": 0.001525553,
+    "sentiment_factor": 0.5197414512,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "xhwp_bACX0017Qxu8_AVbw",
+    "business_name": "J & M Chinese Cuisine Restaurant",
+    "business_popularity": 0.0244088482,
+    "sentiment_factor": 0.4307574418,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Dj4glvoFwKypLjUr9F01Sg",
+    "business_name": "AJK Chinese Cuisine",
+    "business_popularity": 0.0137299771,
+    "sentiment_factor": 0.422572711,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "3bwxfBvKABepxYWGz3pHXA",
+    "business_name": "China A Go Go",
+    "business_popularity": 0.0205949657,
+    "sentiment_factor": 0.3189557608,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "F83X7F2FnEGyXJHc1rZxVQ",
+    "business_name": "HK Seafood Garden",
+    "business_popularity": 0.0320366133,
+    "sentiment_factor": 0.469291674,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "uhPXsYt-6nAzYcUoo2InFg",
+    "business_name": "Tai's Asian Bistro",
+    "business_popularity": 0.0305110603,
+    "sentiment_factor": 0.464649119,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "6GcKYcihd0psn7qY_bHMgQ",
+    "business_name": "House of Mei",
+    "business_popularity": 0.0137299771,
+    "sentiment_factor": 0.3805180501,
+    "star_factor": 0.9285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "nIbXwOgthwCM2dhug5viCA",
+    "business_name": "Thai Style Noodle House 2",
+    "business_popularity": 0.120518688,
+    "sentiment_factor": 0.4884543372,
+    "star_factor": 0.7252747253,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "qCOCPoxRo9_lLixup-TPTg",
+    "business_name": "Yi Mei Champion Taiwan Deli",
+    "business_popularity": 0.0930587338,
+    "sentiment_factor": 0.4329533741,
+    "star_factor": 0.6071428571,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "IdZw9pdLAnNQWrAIbDL_Zw",
+    "business_name": "Shan Dong Chinese Restaurant",
+    "business_popularity": 0.0053394355,
+    "sentiment_factor": 0.4280321121,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "P8DQlNd4ZVCtxFsH_QARFQ",
+    "business_name": "Asian BBQ & Noodles",
+    "business_popularity": 0.179252479,
+    "sentiment_factor": 0.4755017845,
+    "star_factor": 0.7527472527,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "wH_kpDuTE6ChDAp5AlMfJA",
+    "business_name": "Mekong Palace",
+    "business_popularity": 0.060259344,
+    "sentiment_factor": 0.4365376472,
+    "star_factor": 0.5934065934,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "CJEM4qlKqLJ7EO8rtuFRpw",
+    "business_name": "U & Me Cafe",
+    "business_popularity": 0.0038138825,
+    "sentiment_factor": 0.4628092888,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "lJZ6Fmei-JTNb-6AsGVFJg",
+    "business_name": "Orient House",
+    "business_popularity": 0.0457665904,
+    "sentiment_factor": 0.3638317403,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "gq_lS6RXen3z_SesgIrgXA",
+    "business_name": "South China BBQ Hong Kong Style",
+    "business_popularity": 0.0053394355,
+    "sentiment_factor": 0.5183373943,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "cC08otMSMx_S4eUbmElKew",
+    "business_name": "Spicy City",
+    "business_popularity": 0.0312738368,
+    "sentiment_factor": 0.3785118947,
+    "star_factor": 0.3492063492,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "MkDTaYABHF2chHTIjCirBA",
+    "business_name": "Volcano Buffet",
+    "business_popularity": 0.0312738368,
+    "sentiment_factor": 0.2015976136,
+    "star_factor": 0.2142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "0g_KFvnPIkA8ywTXPPeRCg",
+    "business_name": "Hong Kong Asian Diner",
+    "business_popularity": 0.0152555301,
+    "sentiment_factor": 0.3871184925,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "FI4ns6iR4ZrhoaYjITf-Mg",
+    "business_name": "Sunshine Moon Peking Pub",
+    "business_popularity": 0.0213577422,
+    "sentiment_factor": 0.4651758519,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "onItgedmKDLbI3JHOE5XTA",
+    "business_name": "Noodle Pot",
+    "business_popularity": 0.1090770404,
+    "sentiment_factor": 0.4194303676,
+    "star_factor": 0.6177062374,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "BINYfrtGp3A4w0d5E7kbYw",
+    "business_name": "Otaku",
+    "business_popularity": 0.0755148741,
+    "sentiment_factor": 0.5022890645,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "28ycqW56i70yM_C0ejNv9w",
+    "business_name": "Tien Wong Hot Pot",
+    "business_popularity": 0.054157132,
+    "sentiment_factor": 0.4040551003,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "cMvN1j-LK64zqmT4vnl8NA",
+    "business_name": "China Poblano",
+    "business_popularity": 0.5583524027,
+    "sentiment_factor": 0.4342458145,
+    "star_factor": 0.4735449735,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "wO6dcJGJEG1LWprzYHAkeg",
+    "business_name": "Dragon House",
+    "business_popularity": 0.0083905416,
+    "sentiment_factor": 0.385809242,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "QiTjW1KT-pD5BKx9yYD85Q",
+    "business_name": "Three Villages Restaurant",
+    "business_popularity": 0.0442410374,
+    "sentiment_factor": 0.4316364635,
+    "star_factor": 0.7012987013,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "ZHioxVVxhxhZvtqB0Ny86A",
+    "business_name": "Las Vegas Chinatown Plaza",
+    "business_popularity": 0.0228832952,
+    "sentiment_factor": 0.4314208773,
+    "star_factor": 0.6,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "tCYKZXzVg2zBAzmprrZt-g",
+    "business_name": "Umami Ramen & Dumpling Bar",
+    "business_popularity": 0.1106025934,
+    "sentiment_factor": 0.4088962342,
+    "star_factor": 0.5334821429,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "KJzbxY4NJir2JTyf2ZpyuA",
+    "business_name": "Ichiban Sichuan",
+    "business_popularity": 0.0701754386,
+    "sentiment_factor": 0.3905226548,
+    "star_factor": 0.2857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "WhcWAaAw5x1sLh4PFQTlbw",
+    "business_name": "China A Go Go",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.3874460302,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "LkPOyUOLFDKcQN7j7es3qg",
+    "business_name": "8 fortune Chinese cuisine",
+    "business_popularity": 0.0175438596,
+    "sentiment_factor": 0.2875285934,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "-7Pwuxq7C04iKBiE6haISQ",
+    "business_name": "Tasty Home Kitchen",
+    "business_popularity": 0.003051106,
+    "sentiment_factor": 0.5147461174,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "jgWAgT7LWPTf5wju9Q-kiw",
+    "business_name": "Chou's Kitchen",
+    "business_popularity": 0.1067887109,
+    "sentiment_factor": 0.4153257235,
+    "star_factor": 0.8095238095,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "FjSttKipz44vRwKpPwhh-Q",
+    "business_name": "Hibachi Grill & Supreme Buffet",
+    "business_popularity": 0.0251716247,
+    "sentiment_factor": 0.5421506102,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "8HCC8NuJmdHnEg2XC00NPg",
+    "business_name": "Pan Asian",
+    "business_popularity": 0.2845156369,
+    "sentiment_factor": 0.4610702048,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "76jf1_2bJCpnF33ZrAgGgA",
+    "business_name": "Jugoo Chinese Restaurant",
+    "business_popularity": 0.0236460717,
+    "sentiment_factor": 0.4228288144,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "z7jeSqq9CEP89mw6aEWcOw",
+    "business_name": "Imperial Palace",
+    "business_popularity": 0.0091533181,
+    "sentiment_factor": 0.4770712894,
+    "star_factor": 0.6857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "MhMFi7hae_KsaK8lHcg0iQ",
+    "business_name": "Big Wong Restaurant",
+    "business_popularity": 0.2234935164,
+    "sentiment_factor": 0.4028951763,
+    "star_factor": 0.6011904762,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "GHY7UYRnMhZnQ1FSIH20wg",
+    "business_name": "Red Wok Buffet",
+    "business_popularity": 0.0289855072,
+    "sentiment_factor": 0.5551588557,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "1PQNIw4DgWTy_18cH5hVCA",
+    "business_name": "China One",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.4615540448,
+    "star_factor": 0.8095238095,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "zHrdyHYm5GtJ79sAoUyB0Q",
+    "business_name": "Shangri-La Chinese Cuisine",
+    "business_popularity": 0.0259344012,
+    "sentiment_factor": 0.5758157383,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "OTq55xUFMOz13DAi9D0_rw",
+    "business_name": "Iron Chef",
+    "business_popularity": 0.0846681922,
+    "sentiment_factor": 0.518917746,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "_2RBxybvzNmw2k1_jJTe1Q",
+    "business_name": "China Tango",
+    "business_popularity": 0.0442410374,
+    "sentiment_factor": 0.4011946502,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "kwD6P2-EV87u6aVOcnAcpQ",
+    "business_name": "Beijing Noodle Cafe",
+    "business_popularity": 0.1342486651,
+    "sentiment_factor": 0.4381749805,
+    "star_factor": 0.7510204082,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "yXBo7Wgos9B-KzkYSMrNJw",
+    "business_name": "DumplingHaus",
+    "business_popularity": 0.0625476735,
+    "sentiment_factor": 0.4584080452,
+    "star_factor": 0.6517857143,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "jlFhZFGzROkhhSIfXM1oJQ",
+    "business_name": "Great Bao",
+    "business_popularity": 0.0854309687,
+    "sentiment_factor": 0.4485272655,
+    "star_factor": 0.7791005291,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "LH6aLuXW3yShrn_pzrVe8g",
+    "business_name": "Rice & Company",
+    "business_popularity": 0.1212814645,
+    "sentiment_factor": 0.4360667793,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "nW8z5yrUmPekUzdqJ0-OPA",
+    "business_name": "Island Malaysian Cuisine Halal",
+    "business_popularity": 0.0686498856,
+    "sentiment_factor": 0.4358639537,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "qiZSMdGKw2sIfco4kqJ6wA",
+    "business_name": "East Ocean Dim Sum & Seafood Restaurant",
+    "business_popularity": 0.118993135,
+    "sentiment_factor": 0.3995123193,
+    "star_factor": 0.476984127,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "JQKOBllhtI_X5ZjpWSum6A",
+    "business_name": "Cathay House",
+    "business_popularity": 0.0122044241,
+    "sentiment_factor": 0.3567083353,
+    "star_factor": 0.2767857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "u5ea3QjzrkoIw_LoDefQqw",
+    "business_name": "China a Go Go",
+    "business_popularity": 0.0381388253,
+    "sentiment_factor": 0.5322530355,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "SzCMZ664veIZpYp4Tk84Hg",
+    "business_name": "Szechwan Garden",
+    "business_popularity": 0.0366132723,
+    "sentiment_factor": 0.3864421647,
+    "star_factor": 0.5,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "07kcENxFQxwVWYiZ5fqlOg",
+    "business_name": "Da Sheng Chinese Cuisine",
+    "business_popularity": 0.0144927536,
+    "sentiment_factor": 0.5127722125,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "V4XYRuhq_614tFFvWK5q6g",
+    "business_name": "Kung Fu Chef",
+    "business_popularity": 0.0137299771,
+    "sentiment_factor": 0.3659225363,
+    "star_factor": 0.5476190476,
+    "top_dish_exposure": 1.0
+  },
+  {
+    "business_id": "DL3coobcfFjXV_F2zV7sLw",
+    "business_name": "China A Go Go",
+    "business_popularity": 0.0068649886,
+    "sentiment_factor": 0.2969338177,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "VK7XhT6wv-mWV6N1IU4xXA",
+    "business_name": "Hunan Jiu Jia",
+    "business_popularity": 0.0106788711,
+    "sentiment_factor": 0.4587663709,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "79X0Nxbb0kTLtOtp_z_wcA",
+    "business_name": "Harbor Palace Seafood Restaurant",
+    "business_popularity": 0.0282227307,
+    "sentiment_factor": 0.2787681048,
+    "star_factor": 0.2142857143,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "JGEJCYz7gbnOtxbgXB-zSg",
+    "business_name": "Hong Kong Garden Seafood & BBQ Cafe",
+    "business_popularity": 0.0442410374,
+    "sentiment_factor": 0.4931441884,
+    "star_factor": 0.6607142857,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "8U46CxZHRPuGRdnq2dFW4Q",
+    "business_name": "Sogo Cuisine",
+    "business_popularity": 0.001525553,
+    "sentiment_factor": 0.5061580475,
+    "star_factor": 1.0,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "wF4FeAIFZUyyhNiaKKNXEQ",
+    "business_name": "Szechuan Cuisine",
+    "business_popularity": 0.0099160946,
+    "sentiment_factor": 0.3418963987,
+    "star_factor": 0.8571428571,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "2XmS09dl3GT_WknqS9hTVA",
+    "business_name": "Booming Spot Mini Pot",
+    "business_popularity": 0.0739893211,
+    "sentiment_factor": 0.1885135782,
+    "star_factor": 0.2857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "2-XO3LwWdpm-_xOUHSAqGQ",
+    "business_name": "Foods 2 Go",
+    "business_popularity": 0.0007627765,
+    "sentiment_factor": 0.5253771942,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "ImghNwml8N-ncAqhXe00hg",
+    "business_name": "New Asian Star",
+    "business_popularity": 0.0366132723,
+    "sentiment_factor": 0.359730723,
+    "star_factor": 0.5,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "ZjBvtxDvPPvJhbebFtie8g",
+    "business_name": "Noodle ChaCha",
+    "business_popularity": 0.0450038139,
+    "sentiment_factor": 0.3856038517,
+    "star_factor": 0.4785714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "EfbKXRj9PA1FCfU575bFnQ",
+    "business_name": "Tasty Station",
+    "business_popularity": 0.0038138825,
+    "sentiment_factor": 0.4479782736,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "lRpke2ux5ywaiQ8phFA4Lg",
+    "business_name": "Szechwan Palace",
+    "business_popularity": 0.0289855072,
+    "sentiment_factor": 0.4132369265,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "QY8CBhPwv6dE4onjhj6MDg",
+    "business_name": "Veggie House",
+    "business_popularity": 0.1952707857,
+    "sentiment_factor": 0.3747908338,
+    "star_factor": 0.8660714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "VkdrMK6pnVn1unYg94Tsdw",
+    "business_name": "Stack Dim Sum Bar",
+    "business_popularity": 0.0106788711,
+    "sentiment_factor": 0.4182350155,
+    "star_factor": 0.7619047619,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "UETunq2HsmwW9pbsSGWZ6g",
+    "business_name": "Deer Garden Signature",
+    "business_popularity": 0.0144927536,
+    "sentiment_factor": 0.3876568514,
+    "star_factor": 0.5803571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "6T0XTVXm9rzx5pJXx5euyQ",
+    "business_name": "Happy Valley's Congee & Bar",
+    "business_popularity": 0.0007627765,
+    "sentiment_factor": 0.3361575445,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "xzEhmFvpuS_MlmMNTh2egg",
+    "business_name": "Bund Shanghai",
+    "business_popularity": 0.0404271548,
+    "sentiment_factor": 0.4421607137,
+    "star_factor": 0.5714285714,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "UZS8qFGAZGGHTqYLApgANw",
+    "business_name": "China Gourmet",
+    "business_popularity": 0.0350877193,
+    "sentiment_factor": 0.4113626935,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "iEE1GLipVAGN9wHNT-TLlw",
+    "business_name": "Shaanxi Gourmet",
+    "business_popularity": 0.0198321892,
+    "sentiment_factor": 0.4837582406,
+    "star_factor": 0.75,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "Kxp8cIMt3-vxwtCSsL9QKQ",
+    "business_name": "Fat Choy",
+    "business_popularity": 0.1487414188,
+    "sentiment_factor": 0.4777192269,
+    "star_factor": 0.6928571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "uVNhjZbAjraiidicvedEnQ",
+    "business_name": "Waterloo Sogo Restaurant",
+    "business_popularity": 0.0076277651,
+    "sentiment_factor": 0.5061580475,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "A5MadrE5Dd_usQUEKmW5pg",
+    "business_name": "Hao Bao",
+    "business_popularity": 0.0190694127,
+    "sentiment_factor": 0.3904638076,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "NQepW13jaKEaADHUDOtkMg",
+    "business_name": "Beijing Garden Chinese",
+    "business_popularity": 0.0160183066,
+    "sentiment_factor": 0.259752082,
+    "star_factor": 0.2142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "8dl1afzXd476c91o7SlePA",
+    "business_name": "China Jade",
+    "business_popularity": 0.0350877193,
+    "sentiment_factor": 0.327745821,
+    "star_factor": 0.619047619,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "Az_IY3TgnOcnh1dXd7GZLg",
+    "business_name": "Miu's Cuisine",
+    "business_popularity": 0.0655987796,
+    "sentiment_factor": 0.3643314848,
+    "star_factor": 0.6428571429,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "a_wK-2KhPu-8DAwwRObr8A",
+    "business_name": "Simi's Cafe",
+    "business_popularity": 0.0755148741,
+    "sentiment_factor": 0.5502891283,
+    "star_factor": 0.744047619,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "nY21kL3VP8SJnId4MdoRYA",
+    "business_name": "Hot Wheels",
+    "business_popularity": 0.0007627765,
+    "sentiment_factor": 0.3117630827,
+    "star_factor": 0.3392857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "F3P2F-IMu9XhVsMU5rVyCw",
+    "business_name": "Ann's Asian Bistro & Bar",
+    "business_popularity": 0.0183066362,
+    "sentiment_factor": 0.5635608082,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "pTy-SJdZrQw5i5Hbbge5kg",
+    "business_name": "Max Asia Cafe",
+    "business_popularity": 0.0213577422,
+    "sentiment_factor": 0.6342145753,
+    "star_factor": 0.8095238095,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "S2M710DcCQLCs1QXmsQbTw",
+    "business_name": "The Little Kitchen Cafe",
+    "business_popularity": 0.0099160946,
+    "sentiment_factor": 0.372229847,
+    "star_factor": 0.5952380952,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "3zhQAE8jB3PAgDoL1FjNfw",
+    "business_name": "1900 Asian Cuisine",
+    "business_popularity": 0.0465293669,
+    "sentiment_factor": 0.4019944249,
+    "star_factor": 0.5848214286,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "kBsvcoIvoK_M2BIs89xKZg",
+    "business_name": "Liu's Kitchen",
+    "business_popularity": 0.0259344012,
+    "sentiment_factor": 0.347555945,
+    "star_factor": 0.2142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "eLwTnV0_d8A15wlbrG7pQw",
+    "business_name": "The Little Kitchen Cafe",
+    "business_popularity": 0.0144927536,
+    "sentiment_factor": 0.5701140427,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "D464BsN8eGzFrYs-Rgpfdw",
+    "business_name": "Kung Fu Gyoza",
+    "business_popularity": 0.0,
+    "sentiment_factor": 0.2447572777,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "h9RR2Gu6hoGPiW4afh7zhQ",
+    "business_name": "Winter In July - A Pop-Up Lunch with Yonaka and Snow Shavery",
+    "business_popularity": 0.003051106,
+    "sentiment_factor": 0.4680943476,
+    "star_factor": 1.0,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "jltLP6_SrYYkynpSuxVlwg",
+    "business_name": "Fortunes",
+    "business_popularity": 0.0061022121,
+    "sentiment_factor": 0.3582194658,
+    "star_factor": 0.1785714286,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "SKw1Ipv4301UYOSnzx_vGg",
+    "business_name": "Wok Up",
+    "business_popularity": 0.0160183066,
+    "sentiment_factor": 0.7361556636,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "vJ4YBTFB0040aqXy8iy2sw",
+    "business_name": "The Original Las Vegas Buffet",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.6203316169,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "oq7mXtz0Klb_QlqBjmcdaw",
+    "business_name": "Vogue Restaurant & Bar",
+    "business_popularity": 0.0007627765,
+    "sentiment_factor": 0.302072787,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "OgxpW_ZWDJ53m7s449Ufrg",
+    "business_name": "Henry's Taiwan Kitchen",
+    "business_popularity": 0.0663615561,
+    "sentiment_factor": 0.3844675269,
+    "star_factor": 0.623015873,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "VnR-KYOHlQX-aFMkaY686Q",
+    "business_name": "Dim Sum Cafe",
+    "business_popularity": 0.0335621663,
+    "sentiment_factor": 0.4222208933,
+    "star_factor": 0.5728571429,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "lmPFH4eyowWiX5Q1ttf7gw",
+    "business_name": "Hot Wheels Tea House",
+    "business_popularity": 0.003051106,
+    "sentiment_factor": 0.434990159,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "d61OE_k-wFf8ku4GL1aLyQ",
+    "business_name": "Hong Kong Asian Cuisine",
+    "business_popularity": 0.0122044241,
+    "sentiment_factor": 0.2024943819,
+    "star_factor": 0.3392857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "MvWxzyY3zIFH1fZL53E1yw",
+    "business_name": "Viet Bistro",
+    "business_popularity": 0.0160183066,
+    "sentiment_factor": 0.4211603925,
+    "star_factor": 0.5204081633,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "WrTs9iNJaxWzyi2F5huSkQ",
+    "business_name": "World Noodle",
+    "business_popularity": 0.0266971777,
+    "sentiment_factor": 0.4482169778,
+    "star_factor": 0.5663265306,
+    "top_dish_exposure": 0.5
+  },
+  {
+    "business_id": "oJ__9ZEkk_kZMhbQn-DZzw",
+    "business_name": "Red Mansion",
+    "business_popularity": 0.0114416476,
+    "sentiment_factor": 0.4316125894,
+    "star_factor": 0.7857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "XHzZgNmJFVHeT3unDg2Qig",
+    "business_name": "The Clever Koi",
+    "business_popularity": 0.1052631579,
+    "sentiment_factor": 0.449256909,
+    "star_factor": 0.6607142857,
+    "top_dish_exposure": 0.75
+  },
+  {
+    "business_id": "rj6F_QzE3rh81lC16-EE5g",
+    "business_name": "Dumpling And Noodle house",
+    "business_popularity": 0.004576659,
+    "sentiment_factor": 0.4734943693,
+    "star_factor": 0.3928571429,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "FvviOkSV9RiNkiC90tchFg",
+    "business_name": "China a Go Go",
+    "business_popularity": 0.0190694127,
+    "sentiment_factor": 0.4654226895,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "4Z29_LE_UMOZVIArjlTrBg",
+    "business_name": "Lin Buffet",
+    "business_popularity": 0.004576659,
+    "sentiment_factor": 0.1769956537,
+    "star_factor": 0.1785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "JxhSLFM7l0l2FYZs1ezf4A",
+    "business_name": "China Wan Wan",
+    "business_popularity": 0.0213577422,
+    "sentiment_factor": 0.301544993,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "1MRWXUsIvKNwt5SdLxqhZA",
+    "business_name": "Fat Dumpling",
+    "business_popularity": 0.0442410374,
+    "sentiment_factor": 0.4907771411,
+    "star_factor": 0.5892857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "H-n_ldCI3Q16rLVJsAxRMg",
+    "business_name": "Vid Noodles",
+    "business_popularity": 0.004576659,
+    "sentiment_factor": 0.3274195035,
+    "star_factor": 0.2857142857,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "BfiU8hGgUpNNm7t-ljnwmw",
+    "business_name": "Hong Kong Station",
+    "business_popularity": 0.0076277651,
+    "sentiment_factor": 0.3040009699,
+    "star_factor": 0.25,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "6PuVFIL1rF5E-qu0Wq-Gug",
+    "business_name": "VIP",
+    "business_popularity": 0.0152555301,
+    "sentiment_factor": 0.4816233804,
+    "star_factor": 0.7142857143,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "3fY0Hkcx9GM5HIQxDMWPIg",
+    "business_name": "Silver Dragon Chinese Restaurant",
+    "business_popularity": 0.0038138825,
+    "sentiment_factor": 0.3541010028,
+    "star_factor": 0.6785714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "4Db74Jsyp81bei99fo-3Xg",
+    "business_name": "World Buffet",
+    "business_popularity": 0.003051106,
+    "sentiment_factor": 0.5298861289,
+    "star_factor": 0.4285714286,
+    "top_dish_exposure": 0.25
+  },
+  {
+    "business_id": "kiA-L7r9uHh2bqUPxuCzNQ",
+    "business_name": "Oriental House",
+    "business_popularity": 0.0167810831,
+    "sentiment_factor": 0.4564349542,
+    "star_factor": 0.9285714286,
+    "top_dish_exposure": 0.25
+  }
+]
